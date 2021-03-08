@@ -1,0 +1,1318 @@
+NDI Analysis BETA v4.6.2.0
+Copyright (C)2014-2021, NewTek, inc.
+
+NDI version : 4.6.2.0
+
+20:02:28.049: Video receiver creation succeeded.
+20:02:28.049: Audio receiver creation succeeded.
+20:02:28.052: Audio connection opened.
+20:02:28.052: Video connection opened.
+20:02:28.058: Capabilities, Recordable=false
+20:02:28.058: Tally program=false preview=false
+20:02:28.058: Product, Long name=VS4000
+20:02:28.058: Product, Short name=VS4000
+20:02:28.058: Product, Model=VS4000
+20:02:28.058: Product, Manufacturer=NewTek, inc.
+20:02:28.058: Product, Version=2-0
+20:02:28.058: Product, Session name=NewTek TalkShow VS4000
+20:02:28.074: Audio format changed. 48000Hz, codec=NewTek Mode 0, 8 channels.
+20:02:29.100: Video format changed. 1280x720, codec=SpeedHQ Mode 2, progressive, aspect ratio=1.78, frame-rate=25.00, no alpha channel.
+20:02:33.055: Video data rate (MBps). Avg=6.21
+20:02:33.055: Video size (kB). Min=29.94 Avg=30.99 +/- 0.72 Max=31.88
+20:02:33.055: Video recv (mS). Min=37.30 Avg=39.97 +/- 1.14 Max=42.55
+20:02:33.055: Video send (mS). Min=37.82 Avg=39.99 +/- 0.82 Max=41.96
+20:02:33.055: Audio data rate (MBps). Avg=0.00
+20:02:33.055: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:02:33.055: Audio recv (mS). Min=38.45 Avg=39.99 +/- 0.66 Max=41.55
+20:02:33.055: Audio send (mS). Min=38.37 Avg=40.00 +/- 0.63 Max=41.55
+20:02:38.060: Video data rate (MBps). Avg=6.29
+20:02:38.060: Video size (kB). Min=31.14 Avg=31.40 +/- 0.12 Max=31.68
+20:02:38.060: Video recv (mS). Min=37.49 Avg=40.00 +/- 1.25 Max=43.48
+20:02:38.060: Video send (mS). Min=37.77 Avg=40.00 +/- 0.79 Max=42.44
+20:02:38.060: Audio data rate (MBps). Avg=0.00
+20:02:38.060: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:02:38.060: Audio recv (mS). Min=33.06 Avg=40.02 +/- 1.25 Max=48.91
+20:02:38.060: Audio send (mS). Min=38.30 Avg=40.02 +/- 0.66 Max=41.44
+20:02:43.065: Video data rate (MBps). Avg=6.13
+20:02:43.065: Video size (kB). Min=30.27 Avg=30.59 +/- 0.41 Max=31.63
+20:02:43.065: Video recv (mS). Min=36.43 Avg=40.00 +/- 1.29 Max=43.84
+20:02:43.065: Video send (mS). Min=37.74 Avg=40.00 +/- 0.77 Max=42.61
+20:02:43.065: Audio data rate (MBps). Avg=0.00
+20:02:43.065: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:02:43.065: Audio recv (mS). Min=37.64 Avg=39.99 +/- 0.66 Max=41.48
+20:02:43.065: Audio send (mS). Min=38.25 Avg=39.99 +/- 0.62 Max=41.37
+20:02:48.070: Video data rate (MBps). Avg=6.12
+20:02:48.070: Video size (kB). Min=29.77 Avg=30.56 +/- 0.61 Max=31.57
+20:02:48.070: Video recv (mS). Min=36.67 Avg=39.99 +/- 1.23 Max=43.92
+20:02:48.070: Video send (mS). Min=37.82 Avg=40.00 +/- 0.78 Max=42.65
+20:02:48.070: Audio data rate (MBps). Avg=0.00
+20:02:48.070: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:02:48.070: Audio recv (mS). Min=38.62 Avg=39.99 +/- 0.55 Max=41.21
+20:02:48.070: Audio send (mS). Min=38.61 Avg=39.99 +/- 0.55 Max=41.32
+20:02:53.075: Video data rate (MBps). Avg=6.13
+20:02:53.075: Video size (kB). Min=30.15 Avg=30.66 +/- 0.13 Max=30.80
+20:02:53.075: Video recv (mS). Min=36.46 Avg=40.02 +/- 1.18 Max=43.68
+20:02:53.075: Video send (mS). Min=37.88 Avg=40.01 +/- 0.82 Max=42.36
+20:02:53.075: Audio data rate (MBps). Avg=0.00
+20:02:53.075: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:02:53.075: Audio recv (mS). Min=38.78 Avg=40.00 +/- 0.56 Max=41.44
+20:02:53.075: Audio send (mS). Min=38.84 Avg=40.00 +/- 0.56 Max=41.32
+20:02:58.082: Video data rate (MBps). Avg=6.11
+20:02:58.082: Video size (kB). Min=29.91 Avg=30.52 +/- 0.39 Max=31.18
+20:02:58.082: Video recv (mS). Min=37.31 Avg=40.00 +/- 1.19 Max=43.37
+20:02:58.082: Video send (mS). Min=38.13 Avg=40.00 +/- 0.82 Max=43.01
+20:02:58.082: Audio data rate (MBps). Avg=0.00
+20:02:58.082: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:02:58.082: Audio recv (mS). Min=36.91 Avg=39.99 +/- 0.83 Max=43.69
+20:02:58.082: Audio send (mS). Min=38.38 Avg=39.99 +/- 0.67 Max=41.38
+20:03:03.087: Video data rate (MBps). Avg=6.07
+20:03:03.087: Video size (kB). Min=29.90 Avg=30.33 +/- 0.37 Max=30.95
+20:03:03.087: Video recv (mS). Min=36.35 Avg=39.98 +/- 1.14 Max=43.65
+20:03:03.087: Video send (mS). Min=38.35 Avg=39.99 +/- 0.81 Max=42.37
+20:03:03.087: Audio data rate (MBps). Avg=0.00
+20:03:03.087: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:03.087: Audio recv (mS). Min=38.32 Avg=40.01 +/- 0.66 Max=41.26
+20:03:03.087: Audio send (mS). Min=38.34 Avg=40.01 +/- 0.66 Max=41.15
+20:03:08.094: Video data rate (MBps). Avg=6.06
+20:03:08.094: Video size (kB). Min=29.96 Avg=30.29 +/- 0.13 Max=30.48
+20:03:08.094: Video recv (mS). Min=35.05 Avg=40.02 +/- 1.38 Max=44.88
+20:03:08.094: Video send (mS). Min=38.10 Avg=40.01 +/- 0.67 Max=41.82
+20:03:08.094: Audio data rate (MBps). Avg=0.00
+20:03:08.094: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:08.094: Audio recv (mS). Min=36.05 Avg=39.99 +/- 0.78 Max=43.79
+20:03:08.094: Audio send (mS). Min=38.35 Avg=39.99 +/- 0.61 Max=41.21
+20:03:13.101: Video data rate (MBps). Avg=6.03
+20:03:13.101: Video size (kB). Min=29.65 Avg=30.10 +/- 0.16 Max=30.48
+20:03:13.101: Video recv (mS). Min=36.36 Avg=39.99 +/- 1.26 Max=43.57
+20:03:13.101: Video send (mS). Min=38.34 Avg=39.99 +/- 0.76 Max=43.53
+20:03:13.101: Audio data rate (MBps). Avg=0.00
+20:03:13.101: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:13.101: Audio recv (mS). Min=34.70 Avg=40.01 +/- 0.92 Max=44.51
+20:03:13.101: Audio send (mS). Min=38.71 Avg=40.01 +/- 0.61 Max=40.98
+20:03:18.106: Video data rate (MBps). Avg=5.99
+20:03:18.106: Video size (kB). Min=29.65 Avg=29.94 +/- 0.36 Max=30.76
+20:03:18.106: Video recv (mS). Min=37.23 Avg=40.01 +/- 1.12 Max=42.85
+20:03:18.106: Video send (mS). Min=38.43 Avg=40.01 +/- 0.70 Max=42.56
+20:03:18.106: Audio data rate (MBps). Avg=0.00
+20:03:18.106: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:18.106: Audio recv (mS). Min=32.57 Avg=40.00 +/- 1.09 Max=46.66
+20:03:18.106: Audio send (mS). Min=38.55 Avg=40.00 +/- 0.59 Max=41.65
+20:03:23.110: Video data rate (MBps). Avg=6.17
+20:03:23.110: Video size (kB). Min=29.95 Avg=30.82 +/- 0.65 Max=31.63
+20:03:23.110: Video recv (mS). Min=32.59 Avg=39.99 +/- 1.33 Max=45.83
+20:03:23.110: Video send (mS). Min=37.63 Avg=40.00 +/- 0.76 Max=42.47
+20:03:23.110: Audio data rate (MBps). Avg=0.00
+20:03:23.110: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:23.110: Audio recv (mS). Min=38.33 Avg=40.00 +/- 0.68 Max=41.65
+20:03:23.110: Audio send (mS). Min=38.66 Avg=40.00 +/- 0.64 Max=41.48
+20:03:28.117: Video data rate (MBps). Avg=6.20
+20:03:28.117: Video size (kB). Min=30.27 Avg=31.01 +/- 0.46 Max=31.57
+20:03:28.117: Video recv (mS). Min=37.58 Avg=40.01 +/- 1.14 Max=42.57
+20:03:28.117: Video send (mS). Min=37.99 Avg=40.01 +/- 0.71 Max=42.34
+20:03:28.117: Audio data rate (MBps). Avg=0.00
+20:03:28.117: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:28.117: Audio recv (mS). Min=38.64 Avg=39.99 +/- 0.64 Max=41.32
+20:03:28.117: Audio send (mS). Min=38.66 Avg=39.99 +/- 0.65 Max=41.34
+20:03:33.125: Video data rate (MBps). Avg=6.18
+20:03:33.125: Video size (kB). Min=30.27 Avg=30.87 +/- 0.50 Max=31.57
+20:03:33.125: Video recv (mS). Min=34.08 Avg=40.00 +/- 1.35 Max=45.37
+20:03:33.125: Video send (mS). Min=38.22 Avg=40.00 +/- 0.76 Max=42.77
+20:03:33.125: Audio data rate (MBps). Avg=0.00
+20:03:33.125: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:33.125: Audio recv (mS). Min=36.68 Avg=40.01 +/- 0.73 Max=43.08
+20:03:33.125: Audio send (mS). Min=38.81 Avg=40.01 +/- 0.61 Max=41.10
+20:03:38.131: Video data rate (MBps). Avg=6.13
+20:03:38.131: Video size (kB). Min=29.92 Avg=30.62 +/- 0.58 Max=31.63
+20:03:38.131: Video recv (mS). Min=34.63 Avg=40.00 +/- 1.38 Max=45.06
+20:03:38.131: Video send (mS). Min=37.71 Avg=40.00 +/- 0.83 Max=42.75
+20:03:38.131: Audio data rate (MBps). Avg=0.00
+20:03:38.131: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:38.131: Audio recv (mS). Min=38.10 Avg=40.01 +/- 0.60 Max=41.27
+20:03:38.131: Audio send (mS). Min=38.03 Avg=40.01 +/- 0.60 Max=41.21
+20:03:43.139: Video data rate (MBps). Avg=6.05
+20:03:43.139: Video size (kB). Min=29.64 Avg=30.17 +/- 0.45 Max=30.80
+20:03:43.139: Video recv (mS). Min=29.56 Avg=39.98 +/- 1.72 Max=51.35
+20:03:43.139: Video send (mS). Min=37.89 Avg=39.99 +/- 0.78 Max=42.35
+20:03:43.139: Audio data rate (MBps). Avg=0.00
+20:03:43.139: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:43.139: Audio recv (mS). Min=38.17 Avg=39.99 +/- 0.74 Max=41.69
+20:03:43.139: Audio send (mS). Min=38.32 Avg=39.99 +/- 0.70 Max=41.52
+20:03:48.145: Video data rate (MBps). Avg=6.07
+20:03:48.145: Video size (kB). Min=29.90 Avg=30.35 +/- 0.32 Max=30.95
+20:03:48.145: Video recv (mS). Min=36.62 Avg=40.02 +/- 1.28 Max=42.95
+20:03:48.145: Video send (mS). Min=37.93 Avg=40.02 +/- 0.86 Max=42.97
+20:03:48.145: Audio data rate (MBps). Avg=0.00
+20:03:48.145: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:48.145: Audio recv (mS). Min=38.30 Avg=39.99 +/- 0.78 Max=41.43
+20:03:48.145: Audio send (mS). Min=38.28 Avg=39.99 +/- 0.75 Max=41.44
+20:03:53.150: Video data rate (MBps). Avg=6.05
+20:03:53.150: Video size (kB). Min=29.96 Avg=30.23 +/- 0.15 Max=30.48
+20:03:53.150: Video recv (mS). Min=37.61 Avg=39.99 +/- 1.21 Max=43.27
+20:03:53.150: Video send (mS). Min=38.15 Avg=39.99 +/- 0.75 Max=42.84
+20:03:53.150: Audio data rate (MBps). Avg=0.00
+20:03:53.150: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:53.150: Audio recv (mS). Min=38.17 Avg=40.01 +/- 0.74 Max=42.44
+20:03:53.150: Audio send (mS). Min=38.11 Avg=40.00 +/- 0.74 Max=42.53
+20:03:58.155: Video data rate (MBps). Avg=6.05
+20:03:58.155: Video size (kB). Min=29.90 Avg=30.24 +/- 0.28 Max=30.93
+20:03:58.155: Video recv (mS). Min=34.09 Avg=40.01 +/- 1.37 Max=44.52
+20:03:58.155: Video send (mS). Min=38.68 Avg=39.99 +/- 0.75 Max=43.16
+20:03:58.155: Audio data rate (MBps). Avg=0.00
+20:03:58.155: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:03:58.155: Audio recv (mS). Min=38.44 Avg=40.01 +/- 0.67 Max=41.51
+20:03:58.155: Audio send (mS). Min=38.57 Avg=40.01 +/- 0.66 Max=41.54
+20:04:03.162: Video data rate (MBps). Avg=6.06
+20:04:03.162: Video size (kB). Min=29.63 Avg=30.29 +/- 0.38 Max=30.95
+20:04:03.162: Video recv (mS). Min=37.58 Avg=40.01 +/- 1.16 Max=44.26
+20:04:03.162: Video send (mS). Min=37.95 Avg=40.02 +/- 0.73 Max=43.13
+20:04:03.162: Audio data rate (MBps). Avg=0.00
+20:04:03.162: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:03.162: Audio recv (mS). Min=34.72 Avg=40.00 +/- 1.08 Max=47.29
+20:04:03.162: Audio send (mS). Min=38.38 Avg=40.00 +/- 0.72 Max=41.53
+20:04:08.166: Video data rate (MBps). Avg=6.10
+20:04:08.166: Video size (kB). Min=29.66 Avg=30.47 +/- 0.34 Max=30.80
+20:04:08.166: Video recv (mS). Min=37.56 Avg=39.98 +/- 1.12 Max=42.81
+20:04:08.166: Video send (mS). Min=38.44 Avg=39.99 +/- 0.75 Max=42.24
+20:04:08.166: Audio data rate (MBps). Avg=0.00
+20:04:08.166: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:08.166: Audio recv (mS). Min=36.31 Avg=40.00 +/- 0.77 Max=43.19
+20:04:08.166: Audio send (mS). Min=38.54 Avg=39.99 +/- 0.63 Max=40.99
+20:04:13.172: Video data rate (MBps). Avg=6.17
+20:04:13.172: Video size (kB). Min=29.87 Avg=30.83 +/- 0.64 Max=31.57
+20:04:13.172: Video recv (mS). Min=36.76 Avg=40.01 +/- 1.23 Max=43.65
+20:04:13.172: Video send (mS). Min=37.98 Avg=40.00 +/- 0.80 Max=42.34
+20:04:13.172: Audio data rate (MBps). Avg=0.00
+20:04:13.172: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:13.172: Audio recv (mS). Min=36.70 Avg=39.99 +/- 0.83 Max=43.49
+20:04:13.172: Audio send (mS). Min=38.43 Avg=39.99 +/- 0.64 Max=41.09
+20:04:18.177: Video data rate (MBps). Avg=6.11
+20:04:18.177: Video size (kB). Min=30.27 Avg=30.50 +/- 0.25 Max=31.32
+20:04:18.177: Video recv (mS). Min=37.73 Avg=40.00 +/- 1.23 Max=42.90
+20:04:18.177: Video send (mS). Min=37.81 Avg=40.00 +/- 0.81 Max=42.43
+20:04:18.177: Audio data rate (MBps). Avg=0.00
+20:04:18.177: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:18.177: Audio recv (mS). Min=38.37 Avg=40.01 +/- 0.67 Max=41.55
+20:04:18.177: Audio send (mS). Min=38.39 Avg=40.00 +/- 0.68 Max=41.60
+20:04:23.182: Video data rate (MBps). Avg=6.29
+20:04:23.182: Video size (kB). Min=31.14 Avg=31.40 +/- 0.12 Max=31.63
+20:04:23.182: Video recv (mS). Min=36.34 Avg=39.99 +/- 1.20 Max=43.38
+20:04:23.182: Video send (mS). Min=37.89 Avg=39.99 +/- 0.77 Max=42.48
+20:04:23.182: Audio data rate (MBps). Avg=0.00
+20:04:23.182: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:23.182: Audio recv (mS). Min=38.44 Avg=40.00 +/- 0.68 Max=41.80
+20:04:23.182: Audio send (mS). Min=38.50 Avg=40.00 +/- 0.66 Max=41.70
+20:04:28.188: Video data rate (MBps). Avg=6.11
+20:04:28.188: Video size (kB). Min=29.67 Avg=30.56 +/- 0.67 Max=31.87
+20:04:28.188: Video recv (mS). Min=37.08 Avg=40.02 +/- 1.32 Max=43.68
+20:04:28.188: Video send (mS). Min=38.35 Avg=40.01 +/- 0.78 Max=42.76
+20:04:28.188: Audio data rate (MBps). Avg=0.00
+20:04:28.188: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:28.188: Audio recv (mS). Min=38.36 Avg=40.00 +/- 0.68 Max=42.49
+20:04:28.188: Audio send (mS). Min=38.39 Avg=40.00 +/- 0.68 Max=42.49
+20:04:33.194: Video data rate (MBps). Avg=5.96
+20:04:33.194: Video size (kB). Min=29.65 Avg=29.79 +/- 0.21 Max=30.52
+20:04:33.194: Video recv (mS). Min=37.22 Avg=39.99 +/- 1.20 Max=42.84
+20:04:33.194: Video send (mS). Min=37.89 Avg=40.00 +/- 0.87 Max=42.70
+20:04:33.194: Audio data rate (MBps). Avg=0.00
+20:04:33.194: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:33.194: Audio recv (mS). Min=37.96 Avg=40.00 +/- 0.73 Max=42.11
+20:04:33.194: Audio send (mS). Min=38.51 Avg=40.00 +/- 0.70 Max=42.06
+20:04:38.201: Video data rate (MBps). Avg=6.01
+20:04:38.201: Video size (kB). Min=29.55 Avg=30.06 +/- 0.23 Max=30.53
+20:04:38.201: Video recv (mS). Min=37.74 Avg=40.02 +/- 1.12 Max=44.27
+20:04:38.201: Video send (mS). Min=37.88 Avg=40.01 +/- 0.85 Max=42.81
+20:04:38.201: Audio data rate (MBps). Avg=0.00
+20:04:38.201: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:38.201: Audio recv (mS). Min=37.06 Avg=40.00 +/- 0.88 Max=43.24
+20:04:38.201: Audio send (mS). Min=38.44 Avg=40.00 +/- 0.79 Max=43.12
+20:04:43.207: Video data rate (MBps). Avg=6.05
+20:04:43.207: Video size (kB). Min=29.97 Avg=30.25 +/- 0.16 Max=30.48
+20:04:43.207: Video recv (mS). Min=37.68 Avg=40.00 +/- 1.17 Max=43.64
+20:04:43.207: Video send (mS). Min=37.81 Avg=40.00 +/- 0.93 Max=42.73
+20:04:43.207: Audio data rate (MBps). Avg=0.00
+20:04:43.207: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:43.207: Audio recv (mS). Min=38.28 Avg=39.99 +/- 0.71 Max=41.44
+20:04:43.207: Audio send (mS). Min=38.39 Avg=39.99 +/- 0.68 Max=41.46
+20:04:48.212: Video data rate (MBps). Avg=6.14
+20:04:48.212: Video size (kB). Min=29.90 Avg=30.65 +/- 0.36 Max=31.18
+20:04:48.212: Video recv (mS). Min=37.73 Avg=39.98 +/- 1.20 Max=42.62
+20:04:48.212: Video send (mS). Min=37.76 Avg=39.99 +/- 0.77 Max=42.40
+20:04:48.212: Audio data rate (MBps). Avg=0.00
+20:04:48.212: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:48.212: Audio recv (mS). Min=36.72 Avg=40.01 +/- 0.83 Max=43.29
+20:04:48.212: Audio send (mS). Min=38.36 Avg=40.01 +/- 0.73 Max=41.71
+20:04:53.219: Video data rate (MBps). Avg=6.10
+20:04:53.219: Video size (kB). Min=29.91 Avg=30.48 +/- 0.39 Max=31.19
+20:04:53.219: Video recv (mS). Min=36.79 Avg=40.01 +/- 1.19 Max=43.53
+20:04:53.219: Video send (mS). Min=37.92 Avg=40.01 +/- 0.79 Max=42.05
+20:04:53.219: Audio data rate (MBps). Avg=0.00
+20:04:53.219: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:53.219: Audio recv (mS). Min=38.07 Avg=40.00 +/- 0.80 Max=42.73
+20:04:53.219: Audio send (mS). Min=38.13 Avg=40.00 +/- 0.81 Max=42.74
+20:04:58.226: Video data rate (MBps). Avg=6.11
+20:04:58.226: Video size (kB). Min=29.70 Avg=30.55 +/- 0.31 Max=30.80
+20:04:58.226: Video recv (mS). Min=37.08 Avg=40.00 +/- 1.21 Max=43.08
+20:04:58.226: Video send (mS). Min=37.80 Avg=39.99 +/- 0.81 Max=42.82
+20:04:58.226: Audio data rate (MBps). Avg=0.00
+20:04:58.226: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:04:58.226: Audio recv (mS). Min=38.50 Avg=40.00 +/- 0.71 Max=41.71
+20:04:58.226: Audio send (mS). Min=38.48 Avg=40.00 +/- 0.70 Max=41.66
+20:05:03.230: Video data rate (MBps). Avg=6.09
+20:05:03.230: Video size (kB). Min=29.74 Avg=30.41 +/- 0.39 Max=31.30
+20:05:03.230: Video recv (mS). Min=37.49 Avg=40.00 +/- 1.20 Max=43.89
+20:05:03.230: Video send (mS). Min=37.92 Avg=40.00 +/- 0.77 Max=42.84
+20:05:03.247: Audio data rate (MBps). Avg=0.00
+20:05:03.247: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:03.247: Audio recv (mS). Min=34.90 Avg=40.00 +/- 0.90 Max=45.60
+20:05:03.247: Audio send (mS). Min=38.51 Avg=40.00 +/- 0.59 Max=41.55
+20:05:08.251: Video data rate (MBps). Avg=6.21
+20:05:08.251: Video size (kB). Min=30.27 Avg=31.01 +/- 0.47 Max=31.63
+20:05:08.251: Video recv (mS). Min=36.85 Avg=39.99 +/- 1.28 Max=43.43
+20:05:08.251: Video send (mS). Min=37.88 Avg=39.99 +/- 0.79 Max=42.11
+20:05:08.251: Audio data rate (MBps). Avg=0.00
+20:05:08.251: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:08.251: Audio recv (mS). Min=38.38 Avg=40.00 +/- 0.75 Max=41.81
+20:05:08.251: Audio send (mS). Min=38.59 Avg=40.00 +/- 0.73 Max=41.72
+20:05:13.257: Video data rate (MBps). Avg=6.31
+20:05:13.257: Video size (kB). Min=31.22 Avg=31.52 +/- 0.17 Max=31.88
+20:05:13.257: Video recv (mS). Min=35.10 Avg=40.02 +/- 1.42 Max=45.53
+20:05:13.257: Video send (mS). Min=38.43 Avg=40.01 +/- 0.83 Max=43.03
+20:05:13.257: Audio data rate (MBps). Avg=0.00
+20:05:13.257: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:13.257: Audio recv (mS). Min=36.70 Avg=39.99 +/- 0.85 Max=43.86
+20:05:13.257: Audio send (mS). Min=38.34 Avg=39.99 +/- 0.72 Max=41.34
+20:05:18.263: Video data rate (MBps). Avg=6.08
+20:05:18.263: Video size (kB). Min=29.64 Avg=30.36 +/- 0.57 Max=31.52
+20:05:18.263: Video recv (mS). Min=36.39 Avg=40.00 +/- 1.21 Max=42.69
+20:05:18.263: Video send (mS). Min=37.85 Avg=40.00 +/- 0.91 Max=41.83
+20:05:18.263: Audio data rate (MBps). Avg=0.00
+20:05:18.263: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:18.263: Audio recv (mS). Min=37.50 Avg=40.01 +/- 0.77 Max=41.94
+20:05:18.263: Audio send (mS). Min=38.37 Avg=40.01 +/- 0.72 Max=41.15
+20:05:23.268: Video data rate (MBps). Avg=6.02
+20:05:23.268: Video size (kB). Min=29.62 Avg=30.08 +/- 0.42 Max=30.74
+20:05:23.268: Video recv (mS). Min=35.54 Avg=40.00 +/- 1.30 Max=43.75
+20:05:23.268: Video send (mS). Min=37.95 Avg=40.01 +/- 0.85 Max=42.64
+20:05:23.268: Audio data rate (MBps). Avg=0.00
+20:05:23.268: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:23.268: Audio recv (mS). Min=37.38 Avg=40.00 +/- 0.83 Max=42.51
+20:05:23.268: Audio send (mS). Min=38.16 Avg=40.00 +/- 0.75 Max=42.45
+20:05:28.276: Video data rate (MBps). Avg=6.06
+20:05:28.276: Video size (kB). Min=29.65 Avg=30.26 +/- 0.25 Max=30.59
+20:05:28.276: Video recv (mS). Min=35.05 Avg=39.99 +/- 1.24 Max=44.02
+20:05:28.276: Video send (mS). Min=37.82 Avg=39.99 +/- 0.74 Max=42.07
+20:05:28.276: Audio data rate (MBps). Avg=0.00
+20:05:28.276: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:28.276: Audio recv (mS). Min=34.98 Avg=40.00 +/- 1.01 Max=46.45
+20:05:28.276: Audio send (mS). Min=38.67 Avg=40.00 +/- 0.71 Max=42.01
+20:05:33.282: Video data rate (MBps). Avg=6.07
+20:05:33.282: Video size (kB). Min=29.90 Avg=30.33 +/- 0.36 Max=30.95
+20:05:33.282: Video recv (mS). Min=36.92 Avg=40.01 +/- 1.26 Max=43.38
+20:05:33.282: Video send (mS). Min=38.00 Avg=40.01 +/- 0.84 Max=42.79
+20:05:33.282: Audio data rate (MBps). Avg=0.00
+20:05:33.282: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:33.282: Audio recv (mS). Min=38.22 Avg=39.99 +/- 0.68 Max=41.30
+20:05:33.282: Audio send (mS). Min=38.31 Avg=39.99 +/- 0.68 Max=41.24
+20:05:38.287: Video data rate (MBps). Avg=6.21
+20:05:38.287: Video size (kB). Min=30.61 Avg=31.04 +/- 0.23 Max=31.53
+20:05:38.287: Video recv (mS). Min=36.61 Avg=40.01 +/- 1.25 Max=43.87
+20:05:38.287: Video send (mS). Min=37.79 Avg=40.01 +/- 0.84 Max=42.56
+20:05:38.287: Audio data rate (MBps). Avg=0.00
+20:05:38.287: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:38.287: Audio recv (mS). Min=38.27 Avg=40.01 +/- 0.78 Max=41.70
+20:05:38.287: Audio send (mS). Min=38.27 Avg=40.01 +/- 0.77 Max=41.74
+20:05:43.291: Video data rate (MBps). Avg=6.11
+20:05:43.291: Video size (kB). Min=29.87 Avg=30.51 +/- 0.50 Max=31.53
+20:05:43.291: Video recv (mS). Min=37.15 Avg=39.99 +/- 1.11 Max=42.56
+20:05:43.291: Video send (mS). Min=38.19 Avg=39.99 +/- 0.83 Max=43.25
+20:05:43.291: Audio data rate (MBps). Avg=0.00
+20:05:43.291: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:43.291: Audio recv (mS). Min=38.53 Avg=40.00 +/- 0.74 Max=41.22
+20:05:43.291: Audio send (mS). Min=38.59 Avg=40.00 +/- 0.71 Max=41.28
+20:05:48.297: Video data rate (MBps). Avg=6.12
+20:05:48.297: Video size (kB). Min=29.79 Avg=30.60 +/- 0.28 Max=31.40
+20:05:48.297: Video recv (mS). Min=36.68 Avg=40.01 +/- 1.18 Max=43.41
+20:05:48.297: Video send (mS). Min=37.70 Avg=40.00 +/- 0.79 Max=42.04
+20:05:48.297: Audio data rate (MBps). Avg=0.00
+20:05:48.297: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:48.297: Audio recv (mS). Min=38.53 Avg=40.00 +/- 0.74 Max=41.63
+20:05:48.297: Audio send (mS). Min=38.58 Avg=39.99 +/- 0.74 Max=41.55
+20:05:53.302: Video data rate (MBps). Avg=6.18
+20:05:53.302: Video size (kB). Min=30.25 Avg=30.87 +/- 0.49 Max=31.69
+20:05:53.302: Video recv (mS). Min=34.82 Avg=39.99 +/- 1.41 Max=45.05
+20:05:53.302: Video send (mS). Min=37.90 Avg=39.99 +/- 0.82 Max=42.18
+20:05:53.302: Audio data rate (MBps). Avg=0.00
+20:05:53.302: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:53.302: Audio recv (mS). Min=38.40 Avg=40.01 +/- 0.72 Max=41.64
+20:05:53.302: Audio send (mS). Min=38.31 Avg=40.00 +/- 0.73 Max=41.60
+20:05:58.308: Video data rate (MBps). Avg=6.29
+20:05:58.308: Video size (kB). Min=31.12 Avg=31.42 +/- 0.13 Max=31.69
+20:05:58.308: Video recv (mS). Min=37.47 Avg=40.00 +/- 1.19 Max=42.94
+20:05:58.308: Video send (mS). Min=37.82 Avg=40.00 +/- 0.77 Max=42.80
+20:05:58.308: Audio data rate (MBps). Avg=0.00
+20:05:58.308: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:05:58.308: Audio recv (mS). Min=32.64 Avg=40.01 +/- 1.13 Max=47.13
+20:05:58.308: Audio send (mS). Min=38.33 Avg=40.00 +/- 0.65 Max=41.43
+20:06:03.312: Video data rate (MBps). Avg=6.30
+20:06:03.312: Video size (kB). Min=31.01 Avg=31.46 +/- 0.22 Max=31.88
+20:06:03.312: Video recv (mS). Min=37.58 Avg=40.00 +/- 1.22 Max=43.19
+20:06:03.312: Video send (mS). Min=38.39 Avg=40.01 +/- 0.75 Max=42.76
+20:06:03.312: Audio data rate (MBps). Avg=0.00
+20:06:03.312: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:03.312: Audio recv (mS). Min=38.35 Avg=39.99 +/- 0.74 Max=41.86
+20:06:03.312: Audio send (mS). Min=38.36 Avg=39.99 +/- 0.73 Max=41.78
+20:06:08.319: Video data rate (MBps). Avg=6.08
+20:06:08.319: Video size (kB). Min=29.76 Avg=30.37 +/- 0.34 Max=31.05
+20:06:08.319: Video recv (mS). Min=36.66 Avg=39.99 +/- 1.33 Max=42.68
+20:06:08.319: Video send (mS). Min=37.98 Avg=40.00 +/- 0.79 Max=42.37
+20:06:08.319: Audio data rate (MBps). Avg=0.00
+20:06:08.319: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:08.319: Audio recv (mS). Min=38.29 Avg=40.00 +/- 0.72 Max=41.86
+20:06:08.319: Audio send (mS). Min=38.39 Avg=40.00 +/- 0.71 Max=41.82
+20:06:13.324: Video data rate (MBps). Avg=6.14
+20:06:13.324: Video size (kB). Min=30.48 Avg=30.69 +/- 0.08 Max=30.93
+20:06:13.324: Video recv (mS). Min=36.85 Avg=40.01 +/- 1.23 Max=43.58
+20:06:13.324: Video send (mS). Min=38.20 Avg=40.00 +/- 0.81 Max=42.94
+20:06:13.324: Audio data rate (MBps). Avg=0.00
+20:06:13.324: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:13.324: Audio recv (mS). Min=38.04 Avg=40.00 +/- 0.76 Max=41.60
+20:06:13.324: Audio send (mS). Min=38.01 Avg=40.00 +/- 0.74 Max=41.52
+20:06:18.330: Video data rate (MBps). Avg=6.07
+20:06:18.330: Video size (kB). Min=29.90 Avg=30.34 +/- 0.37 Max=31.11
+20:06:18.330: Video recv (mS). Min=36.62 Avg=40.02 +/- 1.20 Max=43.74
+20:06:18.330: Video send (mS). Min=37.67 Avg=40.01 +/- 0.89 Max=42.71
+20:06:18.330: Audio data rate (MBps). Avg=0.00
+20:06:18.330: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:18.330: Audio recv (mS). Min=38.62 Avg=40.00 +/- 0.76 Max=41.39
+20:06:18.330: Audio send (mS). Min=38.60 Avg=40.00 +/- 0.76 Max=41.14
+20:06:23.337: Video data rate (MBps). Avg=6.17
+20:06:23.337: Video size (kB). Min=29.99 Avg=30.83 +/- 0.27 Max=31.19
+20:06:23.337: Video recv (mS). Min=37.69 Avg=39.99 +/- 1.23 Max=43.68
+20:06:23.337: Video send (mS). Min=38.43 Avg=40.00 +/- 0.78 Max=42.56
+20:06:23.337: Audio data rate (MBps). Avg=0.00
+20:06:23.337: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:23.337: Audio recv (mS). Min=38.10 Avg=40.00 +/- 0.76 Max=41.81
+20:06:23.337: Audio send (mS). Min=38.21 Avg=40.00 +/- 0.71 Max=41.51
+20:06:28.342: Video data rate (MBps). Avg=6.27
+20:06:28.342: Video size (kB). Min=30.84 Avg=31.34 +/- 0.25 Max=31.84
+20:06:28.342: Video recv (mS). Min=36.87 Avg=40.00 +/- 1.19 Max=42.96
+20:06:28.342: Video send (mS). Min=38.56 Avg=40.00 +/- 0.76 Max=42.92
+20:06:28.342: Audio data rate (MBps). Avg=0.00
+20:06:28.342: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:28.342: Audio recv (mS). Min=38.37 Avg=40.00 +/- 0.70 Max=41.23
+20:06:28.342: Audio send (mS). Min=38.38 Avg=40.00 +/- 0.70 Max=41.17
+20:06:33.347: Video data rate (MBps). Avg=6.11
+20:06:33.347: Video size (kB). Min=29.78 Avg=30.49 +/- 0.58 Max=31.84
+20:06:33.347: Video recv (mS). Min=27.89 Avg=40.00 +/- 1.95 Max=51.71
+20:06:33.347: Video send (mS). Min=37.90 Avg=40.00 +/- 0.85 Max=42.80
+20:06:33.347: Audio data rate (MBps). Avg=0.00
+20:06:33.347: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:33.347: Audio recv (mS). Min=37.01 Avg=40.01 +/- 0.92 Max=43.41
+20:06:33.347: Audio send (mS). Min=38.21 Avg=40.00 +/- 0.73 Max=41.49
+20:06:38.354: Video data rate (MBps). Avg=6.18
+20:06:38.354: Video size (kB). Min=30.46 Avg=30.90 +/- 0.41 Max=31.83
+20:06:38.354: Video recv (mS). Min=36.90 Avg=40.01 +/- 1.28 Max=43.64
+20:06:38.354: Video send (mS). Min=37.97 Avg=40.00 +/- 0.85 Max=42.49
+20:06:38.354: Audio data rate (MBps). Avg=0.00
+20:06:38.354: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:38.354: Audio recv (mS). Min=37.72 Avg=39.99 +/- 0.73 Max=41.91
+20:06:38.354: Audio send (mS). Min=38.58 Avg=39.99 +/- 0.68 Max=41.70
+20:06:43.358: Video data rate (MBps). Avg=6.28
+20:06:43.358: Video size (kB). Min=30.76 Avg=31.36 +/- 0.22 Max=31.77
+20:06:43.358: Video recv (mS). Min=36.33 Avg=39.99 +/- 1.47 Max=45.23
+20:06:43.358: Video send (mS). Min=37.84 Avg=39.99 +/- 0.81 Max=42.29
+20:06:43.358: Audio data rate (MBps). Avg=0.00
+20:06:43.358: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:43.358: Audio recv (mS). Min=38.36 Avg=40.00 +/- 0.77 Max=41.33
+20:06:43.358: Audio send (mS). Min=38.40 Avg=40.00 +/- 0.75 Max=41.34
+20:06:48.360: Video data rate (MBps). Avg=6.31
+20:06:48.360: Video size (kB). Min=31.05 Avg=31.52 +/- 0.21 Max=31.96
+20:06:48.360: Video recv (mS). Min=36.57 Avg=40.01 +/- 1.39 Max=43.63
+20:06:48.360: Video send (mS). Min=38.21 Avg=40.01 +/- 0.86 Max=43.12
+20:06:48.360: Audio data rate (MBps). Avg=0.00
+20:06:48.360: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:48.360: Audio recv (mS). Min=38.19 Avg=39.99 +/- 0.71 Max=41.23
+20:06:48.360: Audio send (mS). Min=38.21 Avg=39.99 +/- 0.71 Max=41.09
+20:06:53.366: Video data rate (MBps). Avg=6.24
+20:06:53.366: Video size (kB). Min=30.67 Avg=31.14 +/- 0.23 Max=31.54
+20:06:53.366: Video recv (mS). Min=36.91 Avg=39.99 +/- 1.12 Max=43.48
+20:06:53.366: Video send (mS). Min=37.84 Avg=39.99 +/- 0.76 Max=42.36
+20:06:53.366: Audio data rate (MBps). Avg=0.00
+20:06:53.366: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:53.366: Audio recv (mS). Min=38.18 Avg=40.01 +/- 0.78 Max=41.85
+20:06:53.366: Audio send (mS). Min=38.23 Avg=40.01 +/- 0.75 Max=41.24
+20:06:58.371: Video data rate (MBps). Avg=6.08
+20:06:58.371: Video size (kB). Min=29.75 Avg=30.37 +/- 0.30 Max=30.80
+20:06:58.371: Video recv (mS). Min=36.92 Avg=40.01 +/- 1.29 Max=43.91
+20:06:58.371: Video send (mS). Min=38.15 Avg=40.00 +/- 0.78 Max=42.81
+20:06:58.371: Audio data rate (MBps). Avg=0.00
+20:06:58.371: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:06:58.371: Audio recv (mS). Min=37.97 Avg=40.00 +/- 0.77 Max=42.85
+20:06:58.371: Audio send (mS). Min=38.50 Avg=40.00 +/- 0.71 Max=41.16
+20:07:03.377: Video data rate (MBps). Avg=6.12
+20:07:03.377: Video size (kB). Min=29.99 Avg=30.58 +/- 0.12 Max=30.81
+20:07:03.377: Video recv (mS). Min=36.70 Avg=39.98 +/- 1.30 Max=43.69
+20:07:03.377: Video send (mS). Min=38.03 Avg=39.99 +/- 0.68 Max=42.42
+20:07:03.377: Audio data rate (MBps). Avg=0.00
+20:07:03.377: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:03.377: Audio recv (mS). Min=38.34 Avg=39.99 +/- 0.69 Max=41.42
+20:07:03.377: Audio send (mS). Min=38.25 Avg=39.99 +/- 0.69 Max=41.50
+20:07:08.381: Video data rate (MBps). Avg=6.07
+20:07:08.381: Video size (kB). Min=29.61 Avg=30.35 +/- 0.47 Max=31.02
+20:07:08.381: Video recv (mS). Min=37.02 Avg=40.03 +/- 1.24 Max=43.08
+20:07:08.381: Video send (mS). Min=37.90 Avg=40.01 +/- 0.82 Max=43.01
+20:07:08.381: Audio data rate (MBps). Avg=0.00
+20:07:08.381: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:08.381: Audio recv (mS). Min=31.40 Avg=40.01 +/- 1.81 Max=55.33
+20:07:08.381: Audio send (mS). Min=38.28 Avg=40.01 +/- 0.65 Max=41.12
+20:07:13.387: Video data rate (MBps). Avg=6.23
+20:07:13.387: Video size (kB). Min=30.65 Avg=31.14 +/- 0.23 Max=31.53
+20:07:13.387: Video recv (mS). Min=36.85 Avg=40.00 +/- 1.28 Max=43.77
+20:07:13.387: Video send (mS). Min=37.93 Avg=40.01 +/- 0.79 Max=42.27
+20:07:13.387: Audio data rate (MBps). Avg=0.00
+20:07:13.387: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:13.387: Audio recv (mS). Min=38.12 Avg=40.00 +/- 0.75 Max=41.24
+20:07:13.387: Audio send (mS). Min=38.22 Avg=40.00 +/- 0.73 Max=41.17
+20:07:18.394: Video data rate (MBps). Avg=6.30
+20:07:18.394: Video size (kB). Min=31.07 Avg=31.49 +/- 0.18 Max=31.84
+20:07:18.394: Video recv (mS). Min=36.39 Avg=40.00 +/- 1.12 Max=42.76
+20:07:18.394: Video send (mS). Min=38.20 Avg=39.99 +/- 0.73 Max=42.32
+20:07:18.394: Audio data rate (MBps). Avg=0.00
+20:07:18.394: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:18.394: Audio recv (mS). Min=36.26 Avg=40.00 +/- 0.93 Max=45.33
+20:07:18.394: Audio send (mS). Min=38.36 Avg=40.00 +/- 0.72 Max=41.28
+20:07:23.398: Video data rate (MBps). Avg=6.07
+20:07:23.398: Video size (kB). Min=29.59 Avg=30.33 +/- 0.47 Max=31.56
+20:07:23.398: Video recv (mS). Min=35.17 Avg=40.01 +/- 1.27 Max=43.64
+20:07:23.398: Video send (mS). Min=37.92 Avg=40.01 +/- 0.77 Max=42.18
+20:07:23.398: Audio data rate (MBps). Avg=0.00
+20:07:23.398: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:23.398: Audio recv (mS). Min=38.19 Avg=40.00 +/- 0.74 Max=41.21
+20:07:23.398: Audio send (mS). Min=38.21 Avg=40.00 +/- 0.72 Max=41.16
+20:07:28.404: Video data rate (MBps). Avg=6.08
+20:07:28.404: Video size (kB). Min=29.56 Avg=30.36 +/- 0.38 Max=30.73
+20:07:28.404: Video recv (mS). Min=36.76 Avg=39.99 +/- 1.23 Max=43.37
+20:07:28.404: Video send (mS). Min=38.50 Avg=39.99 +/- 0.71 Max=42.65
+20:07:28.404: Audio data rate (MBps). Avg=0.00
+20:07:28.404: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:28.404: Audio recv (mS). Min=38.20 Avg=40.00 +/- 0.73 Max=41.79
+20:07:28.404: Audio send (mS). Min=38.25 Avg=40.00 +/- 0.71 Max=41.67
+20:07:33.410: Video data rate (MBps). Avg=6.26
+20:07:33.410: Video size (kB). Min=29.93 Avg=31.25 +/- 0.50 Max=31.95
+20:07:33.410: Video recv (mS). Min=36.46 Avg=40.00 +/- 1.26 Max=43.66
+20:07:33.410: Video send (mS). Min=38.05 Avg=40.00 +/- 0.80 Max=42.47
+20:07:33.410: Audio data rate (MBps). Avg=0.00
+20:07:33.410: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:33.410: Audio recv (mS). Min=38.34 Avg=40.00 +/- 0.72 Max=41.48
+20:07:33.410: Audio send (mS). Min=38.42 Avg=40.00 +/- 0.69 Max=41.39
+20:07:38.414: Video data rate (MBps). Avg=6.28
+20:07:38.414: Video size (kB). Min=30.81 Avg=31.38 +/- 0.28 Max=31.96
+20:07:38.414: Video recv (mS). Min=36.28 Avg=40.02 +/- 1.31 Max=42.90
+20:07:38.414: Video send (mS). Min=37.91 Avg=40.01 +/- 0.88 Max=43.02
+20:07:38.414: Audio data rate (MBps). Avg=0.00
+20:07:38.414: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:38.414: Audio recv (mS). Min=38.55 Avg=40.00 +/- 0.71 Max=41.72
+20:07:38.414: Audio send (mS). Min=38.54 Avg=40.00 +/- 0.69 Max=41.78
+20:07:43.419: Video data rate (MBps). Avg=6.18
+20:07:43.419: Video size (kB). Min=30.13 Avg=30.84 +/- 0.24 Max=31.21
+20:07:43.419: Video recv (mS). Min=37.41 Avg=39.98 +/- 1.23 Max=44.13
+20:07:43.419: Video send (mS). Min=38.00 Avg=39.98 +/- 0.82 Max=42.60
+20:07:43.419: Audio data rate (MBps). Avg=0.00
+20:07:43.419: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:43.419: Audio recv (mS). Min=32.25 Avg=40.00 +/- 1.23 Max=48.76
+20:07:43.419: Audio send (mS). Min=38.50 Avg=40.00 +/- 0.63 Max=41.04
+20:07:48.425: Video data rate (MBps). Avg=6.04
+20:07:48.425: Video size (kB). Min=29.61 Avg=30.16 +/- 0.41 Max=30.73
+20:07:48.425: Video recv (mS). Min=37.02 Avg=39.99 +/- 1.32 Max=45.85
+20:07:48.425: Video send (mS). Min=37.95 Avg=40.00 +/- 0.81 Max=43.61
+20:07:48.425: Audio data rate (MBps). Avg=0.00
+20:07:48.425: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:48.425: Audio recv (mS). Min=34.92 Avg=40.00 +/- 1.15 Max=45.59
+20:07:48.425: Audio send (mS). Min=38.38 Avg=40.00 +/- 0.69 Max=41.14
+20:07:53.430: Video data rate (MBps). Avg=6.07
+20:07:53.430: Video size (kB). Min=29.65 Avg=30.31 +/- 0.41 Max=30.82
+20:07:53.430: Video recv (mS). Min=37.72 Avg=40.01 +/- 1.20 Max=42.62
+20:07:53.430: Video send (mS). Min=38.00 Avg=40.00 +/- 0.80 Max=42.17
+20:07:53.430: Audio data rate (MBps). Avg=0.00
+20:07:53.430: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:53.430: Audio recv (mS). Min=37.87 Avg=40.00 +/- 0.75 Max=41.57
+20:07:53.430: Audio send (mS). Min=37.95 Avg=40.00 +/- 0.74 Max=41.51
+20:07:58.437: Video data rate (MBps). Avg=6.17
+20:07:58.437: Video size (kB). Min=29.80 Avg=30.82 +/- 0.32 Max=31.29
+20:07:58.437: Video recv (mS). Min=36.30 Avg=40.00 +/- 1.30 Max=45.32
+20:07:58.437: Video send (mS). Min=37.73 Avg=40.01 +/- 0.82 Max=42.31
+20:07:58.437: Audio data rate (MBps). Avg=0.00
+20:07:58.437: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:07:58.437: Audio recv (mS). Min=38.42 Avg=40.00 +/- 0.67 Max=41.11
+20:07:58.437: Audio send (mS). Min=38.16 Avg=40.00 +/- 0.67 Max=41.11
+20:08:03.445: Video data rate (MBps). Avg=6.30
+20:08:03.445: Video size (kB). Min=30.98 Avg=31.46 +/- 0.22 Max=31.84
+20:08:03.445: Video recv (mS). Min=36.63 Avg=39.99 +/- 1.39 Max=43.32
+20:08:03.445: Video send (mS). Min=37.80 Avg=39.99 +/- 0.81 Max=42.18
+20:08:03.445: Audio data rate (MBps). Avg=0.00
+20:08:03.445: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:03.445: Audio recv (mS). Min=38.53 Avg=40.00 +/- 0.63 Max=41.27
+20:08:03.445: Audio send (mS). Min=38.56 Avg=40.00 +/- 0.61 Max=41.11
+20:08:08.452: Video data rate (MBps). Avg=6.29
+20:08:08.452: Video size (kB). Min=31.14 Avg=31.38 +/- 0.11 Max=31.64
+20:08:08.452: Video recv (mS). Min=32.86 Avg=40.00 +/- 1.37 Max=44.57
+20:08:08.452: Video send (mS). Min=37.98 Avg=40.00 +/- 0.82 Max=42.66
+20:08:08.452: Audio data rate (MBps). Avg=0.00
+20:08:08.452: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:08.452: Audio recv (mS). Min=37.13 Avg=40.00 +/- 0.76 Max=42.86
+20:08:08.452: Audio send (mS). Min=38.04 Avg=40.00 +/- 0.66 Max=41.08
+20:08:13.459: Video data rate (MBps). Avg=6.18
+20:08:13.459: Video size (kB). Min=30.26 Avg=30.88 +/- 0.41 Max=31.71
+20:08:13.459: Video recv (mS). Min=36.83 Avg=40.02 +/- 1.33 Max=43.26
+20:08:13.459: Video send (mS). Min=37.99 Avg=40.01 +/- 0.79 Max=42.76
+20:08:13.459: Audio data rate (MBps). Avg=0.00
+20:08:13.459: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:13.459: Audio recv (mS). Min=38.41 Avg=39.99 +/- 0.67 Max=41.21
+20:08:13.459: Audio send (mS). Min=38.57 Avg=39.99 +/- 0.67 Max=41.09
+20:08:18.466: Video data rate (MBps). Avg=6.08
+20:08:18.466: Video size (kB). Min=29.72 Avg=30.38 +/- 0.38 Max=30.84
+20:08:18.466: Video recv (mS). Min=37.27 Avg=39.99 +/- 1.19 Max=43.23
+20:08:18.466: Video send (mS). Min=37.75 Avg=39.99 +/- 0.78 Max=42.90
+20:08:18.466: Audio data rate (MBps). Avg=0.00
+20:08:18.466: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:18.466: Audio recv (mS). Min=37.18 Avg=40.01 +/- 0.73 Max=42.13
+20:08:18.466: Audio send (mS). Min=38.56 Avg=40.01 +/- 0.64 Max=41.02
+20:08:23.472: Video data rate (MBps). Avg=6.28
+20:08:23.472: Video size (kB). Min=30.04 Avg=31.38 +/- 0.41 Max=31.96
+20:08:23.472: Video recv (mS). Min=36.85 Avg=40.00 +/- 1.27 Max=43.72
+20:08:23.472: Video send (mS). Min=38.13 Avg=40.01 +/- 0.85 Max=42.36
+20:08:23.472: Audio data rate (MBps). Avg=0.00
+20:08:23.472: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:23.472: Audio recv (mS). Min=38.46 Avg=40.00 +/- 0.69 Max=41.55
+20:08:23.472: Audio send (mS). Min=38.50 Avg=40.00 +/- 0.61 Max=41.47
+20:08:28.477: Video data rate (MBps). Avg=6.22
+20:08:28.477: Video size (kB). Min=30.56 Avg=31.06 +/- 0.25 Max=31.65
+20:08:28.477: Video recv (mS). Min=36.49 Avg=40.02 +/- 1.36 Max=43.66
+20:08:28.477: Video send (mS). Min=37.86 Avg=40.01 +/- 0.88 Max=42.14
+20:08:28.477: Audio data rate (MBps). Avg=0.00
+20:08:28.477: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:28.477: Audio recv (mS). Min=37.70 Avg=40.00 +/- 0.70 Max=42.16
+20:08:28.477: Audio send (mS). Min=38.13 Avg=40.00 +/- 0.63 Max=41.12
+20:08:33.482: Video data rate (MBps). Avg=6.07
+20:08:33.482: Video size (kB). Min=29.89 Avg=30.33 +/- 0.37 Max=30.96
+20:08:33.482: Video recv (mS). Min=36.83 Avg=39.98 +/- 1.28 Max=43.27
+20:08:33.482: Video send (mS). Min=37.83 Avg=39.99 +/- 0.79 Max=42.31
+20:08:33.482: Audio data rate (MBps). Avg=0.00
+20:08:33.482: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:33.482: Audio recv (mS). Min=38.04 Avg=40.00 +/- 0.67 Max=41.53
+20:08:33.482: Audio send (mS). Min=38.28 Avg=40.00 +/- 0.66 Max=41.13
+20:08:38.487: Video data rate (MBps). Avg=6.15
+20:08:38.487: Video size (kB). Min=30.35 Avg=30.73 +/- 0.16 Max=31.19
+20:08:38.487: Video recv (mS). Min=36.69 Avg=39.99 +/- 1.24 Max=44.13
+20:08:38.487: Video send (mS). Min=37.90 Avg=40.00 +/- 0.80 Max=43.14
+20:08:38.487: Audio data rate (MBps). Avg=0.00
+20:08:38.487: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:38.487: Audio recv (mS). Min=38.46 Avg=40.00 +/- 0.60 Max=41.04
+20:08:38.487: Audio send (mS). Min=38.51 Avg=40.00 +/- 0.61 Max=40.95
+20:08:43.492: Video data rate (MBps). Avg=6.11
+20:08:43.492: Video size (kB). Min=29.89 Avg=30.49 +/- 0.26 Max=30.83
+20:08:43.492: Video recv (mS). Min=37.23 Avg=40.00 +/- 1.37 Max=44.07
+20:08:43.492: Video send (mS). Min=37.75 Avg=39.99 +/- 0.87 Max=43.60
+20:08:43.492: Audio data rate (MBps). Avg=0.00
+20:08:43.492: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:43.492: Audio recv (mS). Min=38.06 Avg=40.00 +/- 0.70 Max=41.61
+20:08:43.492: Audio send (mS). Min=38.29 Avg=39.99 +/- 0.61 Max=41.07
+20:08:48.497: Video data rate (MBps). Avg=6.23
+20:08:48.497: Video size (kB). Min=30.08 Avg=31.14 +/- 0.32 Max=31.64
+20:08:48.497: Video recv (mS). Min=36.28 Avg=40.02 +/- 1.44 Max=43.99
+20:08:48.497: Video send (mS). Min=37.78 Avg=40.01 +/- 0.93 Max=42.50
+20:08:48.497: Audio data rate (MBps). Avg=0.00
+20:08:48.497: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:48.497: Audio recv (mS). Min=38.21 Avg=40.01 +/- 0.65 Max=41.58
+20:08:48.497: Audio send (mS). Min=38.46 Avg=40.01 +/- 0.59 Max=41.57
+20:08:53.504: Video data rate (MBps). Avg=6.31
+20:08:53.504: Video size (kB). Min=31.22 Avg=31.53 +/- 0.18 Max=31.96
+20:08:53.504: Video recv (mS). Min=37.27 Avg=39.99 +/- 1.27 Max=44.12
+20:08:53.504: Video send (mS). Min=37.98 Avg=39.99 +/- 0.82 Max=43.09
+20:08:53.504: Audio data rate (MBps). Avg=0.00
+20:08:53.504: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:53.504: Audio recv (mS). Min=38.50 Avg=40.00 +/- 0.57 Max=41.16
+20:08:53.504: Audio send (mS). Min=38.55 Avg=40.00 +/- 0.52 Max=41.06
+20:08:58.510: Video data rate (MBps). Avg=6.21
+20:08:58.510: Video size (kB). Min=30.25 Avg=31.01 +/- 0.44 Max=31.52
+20:08:58.510: Video recv (mS). Min=37.47 Avg=39.98 +/- 1.28 Max=43.28
+20:08:58.510: Video send (mS). Min=38.51 Avg=39.99 +/- 0.75 Max=42.51
+20:08:58.510: Audio data rate (MBps). Avg=0.00
+20:08:58.510: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:08:58.510: Audio recv (mS). Min=38.41 Avg=40.00 +/- 0.60 Max=41.20
+20:08:58.510: Audio send (mS). Min=38.39 Avg=40.00 +/- 0.56 Max=41.08
+20:09:03.515: Video data rate (MBps). Avg=6.21
+20:09:03.515: Video size (kB). Min=30.43 Avg=31.03 +/- 0.42 Max=31.85
+20:09:03.515: Video recv (mS). Min=35.26 Avg=40.01 +/- 1.35 Max=44.11
+20:09:03.515: Video send (mS). Min=37.72 Avg=40.00 +/- 0.75 Max=42.64
+20:09:03.515: Audio data rate (MBps). Avg=0.00
+20:09:03.515: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:03.515: Audio recv (mS). Min=38.28 Avg=39.99 +/- 0.69 Max=41.51
+20:09:03.515: Audio send (mS). Min=38.32 Avg=39.99 +/- 0.62 Max=41.50
+20:09:08.522: Video data rate (MBps). Avg=6.09
+20:09:08.522: Video size (kB). Min=29.88 Avg=30.42 +/- 0.34 Max=30.84
+20:09:08.522: Video recv (mS). Min=37.46 Avg=40.00 +/- 1.26 Max=43.28
+20:09:08.522: Video send (mS). Min=38.07 Avg=40.01 +/- 0.82 Max=42.52
+20:09:08.522: Audio data rate (MBps). Avg=0.00
+20:09:08.522: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:08.522: Audio recv (mS). Min=32.94 Avg=40.01 +/- 1.07 Max=47.01
+20:09:08.522: Audio send (mS). Min=38.61 Avg=40.01 +/- 0.52 Max=41.02
+20:09:13.528: Video data rate (MBps). Avg=6.25
+20:09:13.528: Video size (kB). Min=30.67 Avg=31.22 +/- 0.22 Max=31.65
+20:09:13.528: Video recv (mS). Min=37.04 Avg=40.01 +/- 1.24 Max=43.32
+20:09:13.528: Video send (mS). Min=38.65 Avg=40.00 +/- 0.73 Max=43.02
+20:09:13.528: Audio data rate (MBps). Avg=0.00
+20:09:13.528: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:13.528: Audio recv (mS). Min=38.35 Avg=40.00 +/- 0.61 Max=41.66
+20:09:13.528: Audio send (mS). Min=38.30 Avg=40.00 +/- 0.56 Max=41.58
+20:09:18.533: Video data rate (MBps). Avg=6.14
+20:09:18.533: Video size (kB). Min=29.89 Avg=30.69 +/- 0.36 Max=31.30
+20:09:18.533: Video recv (mS). Min=36.42 Avg=40.02 +/- 1.43 Max=46.32
+20:09:18.533: Video send (mS). Min=37.79 Avg=40.01 +/- 0.91 Max=42.98
+20:09:18.533: Audio data rate (MBps). Avg=0.00
+20:09:18.533: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:18.533: Audio recv (mS). Min=38.36 Avg=40.01 +/- 0.71 Max=41.80
+20:09:18.533: Audio send (mS). Min=38.59 Avg=40.00 +/- 0.61 Max=41.47
+20:09:23.539: Video data rate (MBps). Avg=6.06
+20:09:23.539: Video size (kB). Min=29.96 Avg=30.25 +/- 0.19 Max=30.83
+20:09:23.539: Video recv (mS). Min=36.88 Avg=39.98 +/- 1.22 Max=42.95
+20:09:23.539: Video send (mS). Min=38.46 Avg=39.99 +/- 0.74 Max=41.93
+20:09:23.539: Audio data rate (MBps). Avg=0.00
+20:09:23.539: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:23.539: Audio recv (mS). Min=38.56 Avg=40.01 +/- 0.66 Max=41.76
+20:09:23.539: Audio send (mS). Min=38.58 Avg=40.00 +/- 0.61 Max=40.94
+20:09:28.544: Video data rate (MBps). Avg=6.11
+20:09:28.544: Video size (kB). Min=29.64 Avg=30.53 +/- 0.39 Max=31.19
+20:09:28.544: Video recv (mS). Min=36.32 Avg=40.01 +/- 1.35 Max=43.66
+20:09:28.544: Video send (mS). Min=38.16 Avg=40.00 +/- 0.85 Max=42.60
+20:09:28.544: Audio data rate (MBps). Avg=0.00
+20:09:28.544: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:28.544: Audio recv (mS). Min=38.27 Avg=39.99 +/- 0.68 Max=41.45
+20:09:28.544: Audio send (mS). Min=38.37 Avg=40.00 +/- 0.61 Max=41.47
+20:09:33.549: Video data rate (MBps). Avg=6.01
+20:09:33.549: Video size (kB). Min=29.60 Avg=30.00 +/- 0.26 Max=30.65
+20:09:33.549: Video recv (mS). Min=36.99 Avg=40.00 +/- 1.22 Max=43.24
+20:09:33.549: Video send (mS). Min=37.89 Avg=40.00 +/- 0.81 Max=42.72
+20:09:33.549: Audio data rate (MBps). Avg=0.00
+20:09:33.549: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:33.549: Audio recv (mS). Min=37.98 Avg=40.00 +/- 0.70 Max=41.61
+20:09:33.549: Audio send (mS). Min=38.23 Avg=40.00 +/- 0.61 Max=41.40
+20:09:38.554: Video data rate (MBps). Avg=6.30
+20:09:38.554: Video size (kB). Min=30.68 Avg=31.48 +/- 0.24 Max=31.96
+20:09:38.554: Video recv (mS). Min=37.01 Avg=40.00 +/- 1.28 Max=42.85
+20:09:38.554: Video send (mS). Min=38.20 Avg=39.99 +/- 0.81 Max=43.01
+20:09:38.554: Audio data rate (MBps). Avg=0.00
+20:09:38.554: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:38.554: Audio recv (mS). Min=38.14 Avg=40.00 +/- 0.61 Max=41.74
+20:09:38.554: Audio send (mS). Min=38.75 Avg=40.00 +/- 0.51 Max=41.31
+20:09:43.559: Video data rate (MBps). Avg=6.29
+20:09:43.559: Video size (kB). Min=31.14 Avg=31.40 +/- 0.12 Max=31.70
+20:09:43.559: Video recv (mS). Min=36.76 Avg=39.99 +/- 1.31 Max=44.17
+20:09:43.559: Video send (mS). Min=38.20 Avg=40.00 +/- 0.82 Max=42.91
+20:09:43.559: Audio data rate (MBps). Avg=0.00
+20:09:43.559: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:43.559: Audio recv (mS). Min=38.40 Avg=40.00 +/- 0.68 Max=41.60
+20:09:43.559: Audio send (mS). Min=38.62 Avg=39.99 +/- 0.58 Max=41.23
+20:09:48.566: Video data rate (MBps). Avg=6.10
+20:09:48.566: Video size (kB). Min=30.29 Avg=30.48 +/- 0.23 Max=31.26
+20:09:48.566: Video recv (mS). Min=36.76 Avg=40.01 +/- 1.14 Max=43.04
+20:09:48.566: Video send (mS). Min=37.98 Avg=40.00 +/- 0.85 Max=43.34
+20:09:48.566: Audio data rate (MBps). Avg=0.00
+20:09:48.566: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:48.566: Audio recv (mS). Min=34.74 Avg=40.00 +/- 1.11 Max=46.05
+20:09:48.566: Audio send (mS). Min=38.57 Avg=40.00 +/- 0.60 Max=41.03
+20:09:53.572: Video data rate (MBps). Avg=6.07
+20:09:53.572: Video size (kB). Min=29.63 Avg=30.35 +/- 0.41 Max=30.84
+20:09:53.572: Video recv (mS). Min=37.66 Avg=40.00 +/- 1.22 Max=43.86
+20:09:53.572: Video send (mS). Min=38.11 Avg=40.01 +/- 0.77 Max=42.49
+20:09:53.572: Audio data rate (MBps). Avg=0.00
+20:09:53.572: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:53.572: Audio recv (mS). Min=38.07 Avg=40.00 +/- 0.75 Max=41.99
+20:09:53.572: Audio send (mS). Min=38.62 Avg=40.00 +/- 0.63 Max=41.24
+20:09:58.579: Video data rate (MBps). Avg=6.09
+20:09:58.579: Video size (kB). Min=29.93 Avg=30.44 +/- 0.31 Max=31.07
+20:09:58.579: Video recv (mS). Min=37.49 Avg=40.02 +/- 1.17 Max=44.08
+20:09:58.579: Video send (mS). Min=38.49 Avg=40.01 +/- 0.71 Max=42.40
+20:09:58.579: Audio data rate (MBps). Avg=0.00
+20:09:58.579: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:09:58.579: Audio recv (mS). Min=37.93 Avg=40.01 +/- 0.85 Max=42.60
+20:09:58.579: Audio send (mS). Min=38.41 Avg=40.01 +/- 0.60 Max=41.44
+20:10:03.585: Video data rate (MBps). Avg=6.20
+20:10:03.585: Video size (kB). Min=30.62 Avg=30.97 +/- 0.16 Max=31.30
+20:10:03.585: Video recv (mS). Min=36.48 Avg=39.99 +/- 1.45 Max=43.75
+20:10:03.585: Video send (mS). Min=37.98 Avg=40.00 +/- 0.89 Max=42.90
+20:10:03.585: Audio data rate (MBps). Avg=0.00
+20:10:03.585: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:03.585: Audio recv (mS). Min=36.11 Avg=40.00 +/- 0.93 Max=43.49
+20:10:03.585: Audio send (mS). Min=38.50 Avg=40.00 +/- 0.68 Max=41.94
+20:10:08.591: Video data rate (MBps). Avg=6.06
+20:10:08.591: Video size (kB). Min=29.90 Avg=30.26 +/- 0.30 Max=31.02
+20:10:08.591: Video recv (mS). Min=37.21 Avg=40.00 +/- 1.25 Max=42.74
+20:10:08.591: Video send (mS). Min=37.76 Avg=39.99 +/- 0.78 Max=41.80
+20:10:08.591: Audio data rate (MBps). Avg=0.00
+20:10:08.591: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:08.591: Audio recv (mS). Min=33.03 Avg=40.00 +/- 1.30 Max=46.65
+20:10:08.591: Audio send (mS). Min=38.32 Avg=39.99 +/- 0.63 Max=41.41
+20:10:13.596: Video data rate (MBps). Avg=6.05
+20:10:13.596: Video size (kB). Min=29.63 Avg=30.21 +/- 0.23 Max=30.47
+20:10:13.596: Video recv (mS). Min=36.90 Avg=39.99 +/- 1.18 Max=43.98
+20:10:13.596: Video send (mS). Min=37.86 Avg=40.00 +/- 0.90 Max=42.67
+20:10:13.596: Audio data rate (MBps). Avg=0.00
+20:10:13.596: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:13.596: Audio recv (mS). Min=38.46 Avg=40.00 +/- 0.59 Max=41.22
+20:10:13.596: Audio send (mS). Min=38.48 Avg=40.00 +/- 0.56 Max=40.95
+20:10:18.601: Video data rate (MBps). Avg=5.98
+20:10:18.601: Video size (kB). Min=29.62 Avg=29.89 +/- 0.30 Max=30.60
+20:10:18.601: Video recv (mS). Min=36.74 Avg=40.00 +/- 1.21 Max=43.83
+20:10:18.601: Video send (mS). Min=37.85 Avg=40.00 +/- 0.85 Max=42.74
+20:10:18.601: Audio data rate (MBps). Avg=0.00
+20:10:18.601: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:18.601: Audio recv (mS). Min=36.41 Avg=40.00 +/- 0.85 Max=43.76
+20:10:18.601: Audio send (mS). Min=38.31 Avg=40.00 +/- 0.66 Max=41.48
+20:10:23.608: Video data rate (MBps). Avg=6.00
+20:10:23.608: Video size (kB). Min=29.63 Avg=30.00 +/- 0.35 Max=31.34
+20:10:23.608: Video recv (mS). Min=37.29 Avg=40.03 +/- 1.24 Max=43.73
+20:10:23.608: Video send (mS). Min=37.99 Avg=40.02 +/- 0.75 Max=42.38
+20:10:23.608: Audio data rate (MBps). Avg=0.00
+20:10:23.608: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:23.608: Audio recv (mS). Min=37.86 Avg=40.00 +/- 0.73 Max=41.75
+20:10:23.608: Audio send (mS). Min=38.61 Avg=40.00 +/- 0.57 Max=41.05
+20:10:28.617: Video data rate (MBps). Avg=6.32
+20:10:28.617: Video size (kB). Min=31.19 Avg=31.51 +/- 0.19 Max=31.96
+20:10:28.617: Video recv (mS). Min=35.76 Avg=39.97 +/- 1.61 Max=45.05
+20:10:28.617: Video send (mS). Min=37.77 Avg=39.98 +/- 0.73 Max=42.40
+20:10:28.617: Audio data rate (MBps). Avg=0.00
+20:10:28.617: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:28.617: Audio recv (mS). Min=35.43 Avg=40.00 +/- 0.96 Max=44.29
+20:10:28.617: Audio send (mS). Min=38.29 Avg=40.00 +/- 0.64 Max=41.34
+20:10:33.621: Video data rate (MBps). Avg=6.18
+20:10:33.621: Video size (kB). Min=30.29 Avg=30.89 +/- 0.51 Max=31.64
+20:10:33.621: Video recv (mS). Min=34.46 Avg=40.00 +/- 1.42 Max=46.09
+20:10:33.621: Video send (mS). Min=37.94 Avg=40.01 +/- 0.83 Max=42.21
+20:10:33.621: Audio data rate (MBps). Avg=0.00
+20:10:33.621: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:33.621: Audio recv (mS). Min=38.24 Avg=39.99 +/- 0.74 Max=41.65
+20:10:33.621: Audio send (mS). Min=38.61 Avg=39.99 +/- 0.65 Max=41.42
+20:10:38.624: Video data rate (MBps). Avg=6.18
+20:10:38.624: Video size (kB). Min=30.01 Avg=30.86 +/- 0.51 Max=31.64
+20:10:38.624: Video recv (mS). Min=36.37 Avg=40.00 +/- 1.37 Max=43.71
+20:10:38.624: Video send (mS). Min=37.97 Avg=39.99 +/- 0.85 Max=42.72
+20:10:38.624: Audio data rate (MBps). Avg=0.00
+20:10:38.624: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:38.624: Audio recv (mS). Min=38.13 Avg=40.01 +/- 0.76 Max=41.91
+20:10:38.624: Audio send (mS). Min=38.46 Avg=40.01 +/- 0.68 Max=41.37
+20:10:43.630: Video data rate (MBps). Avg=6.09
+20:10:43.630: Video size (kB). Min=29.81 Avg=30.41 +/- 0.37 Max=30.84
+20:10:43.630: Video recv (mS). Min=36.42 Avg=40.01 +/- 1.39 Max=44.57
+20:10:43.630: Video send (mS). Min=37.80 Avg=40.00 +/- 0.95 Max=42.96
+20:10:43.630: Audio data rate (MBps). Avg=0.00
+20:10:43.630: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:43.630: Audio recv (mS). Min=36.33 Avg=40.00 +/- 0.85 Max=43.76
+20:10:43.630: Audio send (mS). Min=38.60 Avg=40.00 +/- 0.61 Max=41.34
+20:10:48.636: Video data rate (MBps). Avg=6.07
+20:10:48.636: Video size (kB). Min=29.85 Avg=30.34 +/- 0.32 Max=31.01
+20:10:48.636: Video recv (mS). Min=37.69 Avg=40.00 +/- 1.14 Max=43.98
+20:10:48.636: Video send (mS). Min=38.61 Avg=40.01 +/- 0.80 Max=43.51
+20:10:48.636: Audio data rate (MBps). Avg=0.00
+20:10:48.636: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:48.636: Audio recv (mS). Min=37.68 Avg=39.99 +/- 0.73 Max=43.04
+20:10:48.636: Audio send (mS). Min=38.39 Avg=39.99 +/- 0.61 Max=41.66
+20:10:53.642: Video data rate (MBps). Avg=6.12
+20:10:53.642: Video size (kB). Min=29.90 Avg=30.54 +/- 0.38 Max=31.02
+20:10:53.642: Video recv (mS). Min=37.46 Avg=40.00 +/- 1.32 Max=44.13
+20:10:53.642: Video send (mS). Min=37.78 Avg=40.00 +/- 0.94 Max=43.26
+20:10:53.642: Audio data rate (MBps). Avg=0.00
+20:10:53.642: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:53.642: Audio recv (mS). Min=38.49 Avg=40.01 +/- 0.67 Max=41.14
+20:10:53.642: Audio send (mS). Min=38.47 Avg=40.01 +/- 0.67 Max=41.10
+20:10:58.648: Video data rate (MBps). Avg=6.06
+20:10:58.648: Video size (kB). Min=29.95 Avg=30.29 +/- 0.14 Max=30.47
+20:10:58.648: Video recv (mS). Min=36.96 Avg=40.01 +/- 1.33 Max=43.47
+20:10:58.648: Video send (mS). Min=38.08 Avg=40.00 +/- 0.80 Max=42.55
+20:10:58.648: Audio data rate (MBps). Avg=0.00
+20:10:58.648: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:10:58.648: Audio recv (mS). Min=36.33 Avg=40.01 +/- 0.86 Max=44.50
+20:10:58.648: Audio send (mS). Min=38.49 Avg=40.01 +/- 0.68 Max=41.34
+20:11:03.656: Video data rate (MBps). Avg=6.05
+20:11:03.656: Video size (kB). Min=29.90 Avg=30.19 +/- 0.23 Max=30.79
+20:11:03.656: Video recv (mS). Min=37.16 Avg=39.99 +/- 1.35 Max=44.09
+20:11:03.656: Video send (mS). Min=38.05 Avg=40.00 +/- 0.85 Max=43.05
+20:11:03.656: Audio data rate (MBps). Avg=0.00
+20:11:03.656: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:03.656: Audio recv (mS). Min=38.42 Avg=39.99 +/- 0.68 Max=42.01
+20:11:03.656: Audio send (mS). Min=38.39 Avg=39.99 +/- 0.67 Max=42.15
+20:11:08.660: Video data rate (MBps). Avg=5.99
+20:11:08.660: Video size (kB). Min=29.65 Avg=29.92 +/- 0.27 Max=30.51
+20:11:08.660: Video recv (mS). Min=36.12 Avg=40.03 +/- 1.24 Max=44.82
+20:11:08.660: Video send (mS). Min=37.78 Avg=40.02 +/- 0.90 Max=43.79
+20:11:08.660: Audio data rate (MBps). Avg=0.00
+20:11:08.660: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:08.660: Audio recv (mS). Min=36.95 Avg=40.00 +/- 0.77 Max=42.24
+20:11:08.660: Audio send (mS). Min=38.55 Avg=40.00 +/- 0.63 Max=41.38
+20:11:13.665: Video data rate (MBps). Avg=6.09
+20:11:13.665: Video size (kB). Min=29.93 Avg=30.41 +/- 0.38 Max=31.56
+20:11:13.665: Video recv (mS). Min=35.50 Avg=39.98 +/- 1.56 Max=47.51
+20:11:13.665: Video send (mS). Min=37.96 Avg=39.99 +/- 0.80 Max=43.65
+20:11:13.665: Audio data rate (MBps). Avg=0.00
+20:11:13.665: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:13.665: Audio recv (mS). Min=38.56 Avg=40.01 +/- 0.58 Max=41.14
+20:11:13.665: Audio send (mS). Min=38.56 Avg=40.01 +/- 0.58 Max=41.06
+20:11:18.671: Video data rate (MBps). Avg=6.28
+20:11:18.671: Video size (kB). Min=30.54 Avg=31.35 +/- 0.23 Max=31.70
+20:11:18.671: Video recv (mS). Min=34.88 Avg=40.00 +/- 1.49 Max=48.95
+20:11:18.671: Video send (mS). Min=37.97 Avg=40.00 +/- 0.80 Max=42.73
+20:11:18.671: Audio data rate (MBps). Avg=0.00
+20:11:18.671: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:18.671: Audio recv (mS). Min=38.16 Avg=39.99 +/- 0.73 Max=41.71
+20:11:18.671: Audio send (mS). Min=38.47 Avg=39.99 +/- 0.67 Max=41.49
+20:11:23.677: Video data rate (MBps). Avg=6.12
+20:11:23.677: Video size (kB). Min=30.30 Avg=30.58 +/- 0.38 Max=31.63
+20:11:23.677: Video recv (mS). Min=36.64 Avg=40.00 +/- 1.22 Max=43.32
+20:11:23.677: Video send (mS). Min=37.82 Avg=39.99 +/- 0.82 Max=42.70
+20:11:23.677: Audio data rate (MBps). Avg=0.00
+20:11:23.677: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:23.677: Audio recv (mS). Min=38.29 Avg=40.00 +/- 0.63 Max=41.47
+20:11:23.677: Audio send (mS). Min=38.65 Avg=40.00 +/- 0.61 Max=41.05
+20:11:28.682: Video data rate (MBps). Avg=6.24
+20:11:28.682: Video size (kB). Min=29.92 Avg=31.17 +/- 0.49 Max=31.70
+20:11:28.682: Video recv (mS). Min=37.43 Avg=40.03 +/- 1.34 Max=45.10
+20:11:28.682: Video send (mS). Min=38.15 Avg=40.02 +/- 0.90 Max=44.02
+20:11:28.682: Audio data rate (MBps). Avg=0.00
+20:11:28.682: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:28.682: Audio recv (mS). Min=32.46 Avg=40.00 +/- 1.13 Max=47.47
+20:11:28.682: Audio send (mS). Min=38.49 Avg=40.00 +/- 0.61 Max=40.98
+20:11:33.686: Video data rate (MBps). Avg=6.05
+20:11:33.686: Video size (kB). Min=29.66 Avg=30.21 +/- 0.37 Max=30.83
+20:11:33.686: Video recv (mS). Min=37.89 Avg=39.99 +/- 1.07 Max=43.52
+20:11:33.686: Video send (mS). Min=38.28 Avg=39.99 +/- 0.73 Max=42.14
+20:11:33.686: Audio data rate (MBps). Avg=0.00
+20:11:33.686: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:33.686: Audio recv (mS). Min=38.41 Avg=40.01 +/- 0.62 Max=40.98
+20:11:33.686: Audio send (mS). Min=38.39 Avg=40.01 +/- 0.62 Max=41.08
+20:11:38.690: Video data rate (MBps). Avg=6.03
+20:11:38.690: Video size (kB). Min=29.63 Avg=30.11 +/- 0.35 Max=30.88
+20:11:38.690: Video recv (mS). Min=37.19 Avg=40.00 +/- 1.30 Max=44.24
+20:11:38.690: Video send (mS). Min=37.75 Avg=39.99 +/- 0.93 Max=43.54
+20:11:38.690: Audio data rate (MBps). Avg=0.00
+20:11:38.690: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:38.690: Audio recv (mS). Min=38.36 Avg=40.00 +/- 0.66 Max=41.08
+20:11:38.690: Audio send (mS). Min=38.42 Avg=39.99 +/- 0.66 Max=40.97
+20:11:43.694: Video data rate (MBps). Avg=6.05
+20:11:43.694: Video size (kB). Min=29.90 Avg=30.20 +/- 0.20 Max=30.80
+20:11:43.694: Video recv (mS). Min=37.63 Avg=40.01 +/- 1.38 Max=44.85
+20:11:43.694: Video send (mS). Min=37.87 Avg=40.01 +/- 0.98 Max=43.70
+20:11:43.694: Audio data rate (MBps). Avg=0.00
+20:11:43.694: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:43.694: Audio recv (mS). Min=38.33 Avg=40.00 +/- 0.67 Max=41.42
+20:11:43.694: Audio send (mS). Min=38.66 Avg=40.00 +/- 0.64 Max=40.95
+20:11:48.700: Video data rate (MBps). Avg=6.05
+20:11:48.700: Video size (kB). Min=29.90 Avg=30.20 +/- 0.17 Max=30.47
+20:11:48.700: Video recv (mS). Min=36.18 Avg=40.01 +/- 1.33 Max=44.22
+20:11:48.700: Video send (mS). Min=37.83 Avg=40.02 +/- 0.85 Max=42.76
+20:11:48.700: Audio data rate (MBps). Avg=0.00
+20:11:48.700: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:48.700: Audio recv (mS). Min=38.34 Avg=40.00 +/- 0.71 Max=41.69
+20:11:48.700: Audio send (mS). Min=38.37 Avg=40.00 +/- 0.69 Max=41.11
+20:11:53.706: Video data rate (MBps). Avg=6.13
+20:11:53.706: Video size (kB). Min=29.92 Avg=30.60 +/- 0.32 Max=31.02
+20:11:53.706: Video recv (mS). Min=37.27 Avg=39.99 +/- 1.31 Max=43.65
+20:11:53.706: Video send (mS). Min=38.52 Avg=39.98 +/- 0.86 Max=43.11
+20:11:53.706: Audio data rate (MBps). Avg=0.00
+20:11:53.706: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:53.706: Audio recv (mS). Min=37.78 Avg=40.00 +/- 0.69 Max=41.96
+20:11:53.706: Audio send (mS). Min=38.72 Avg=40.00 +/- 0.62 Max=41.07
+20:11:58.713: Video data rate (MBps). Avg=6.09
+20:11:58.713: Video size (kB). Min=29.73 Avg=30.42 +/- 0.34 Max=30.84
+20:11:58.713: Video recv (mS). Min=37.74 Avg=39.99 +/- 1.21 Max=43.24
+20:11:58.713: Video send (mS). Min=38.01 Avg=40.00 +/- 0.91 Max=42.98
+20:11:58.713: Audio data rate (MBps). Avg=0.00
+20:11:58.713: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:11:58.713: Audio recv (mS). Min=38.60 Avg=40.00 +/- 0.60 Max=40.98
+20:11:58.713: Audio send (mS). Min=38.63 Avg=40.00 +/- 0.59 Max=40.95
+20:12:03.720: Video data rate (MBps). Avg=6.09
+20:12:03.720: Video size (kB). Min=29.82 Avg=30.44 +/- 0.47 Max=31.63
+20:12:03.720: Video recv (mS). Min=36.75 Avg=40.01 +/- 1.41 Max=43.84
+20:12:03.720: Video send (mS). Min=38.10 Avg=40.01 +/- 0.91 Max=43.43
+20:12:03.720: Audio data rate (MBps). Avg=0.00
+20:12:03.720: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:03.720: Audio recv (mS). Min=38.41 Avg=40.00 +/- 0.68 Max=41.12
+20:12:03.720: Audio send (mS). Min=38.42 Avg=40.00 +/- 0.67 Max=40.99
+20:12:08.726: Video data rate (MBps). Avg=6.16
+20:12:08.726: Video size (kB). Min=30.29 Avg=30.75 +/- 0.49 Max=31.64
+20:12:08.726: Video recv (mS). Min=36.42 Avg=40.00 +/- 1.35 Max=44.16
+20:12:08.726: Video send (mS). Min=37.92 Avg=40.00 +/- 0.83 Max=42.75
+20:12:08.726: Audio data rate (MBps). Avg=0.00
+20:12:08.726: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:08.726: Audio recv (mS). Min=38.37 Avg=40.01 +/- 0.75 Max=41.35
+20:12:08.726: Audio send (mS). Min=38.35 Avg=40.01 +/- 0.73 Max=41.19
+20:12:13.731: Video data rate (MBps). Avg=6.23
+20:12:13.731: Video size (kB). Min=30.27 Avg=31.14 +/- 0.43 Max=31.68
+20:12:13.731: Video recv (mS). Min=37.17 Avg=40.01 +/- 1.33 Max=43.74
+20:12:13.731: Video send (mS). Min=38.18 Avg=40.01 +/- 0.89 Max=42.75
+20:12:13.731: Audio data rate (MBps). Avg=0.00
+20:12:13.731: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:13.731: Audio recv (mS). Min=36.52 Avg=40.00 +/- 0.78 Max=43.60
+20:12:13.731: Audio send (mS). Min=38.61 Avg=39.99 +/- 0.63 Max=41.30
+20:12:18.736: Video data rate (MBps). Avg=6.25
+20:12:18.736: Video size (kB). Min=29.92 Avg=31.21 +/- 0.62 Max=31.96
+20:12:18.736: Video recv (mS). Min=37.23 Avg=40.00 +/- 1.33 Max=43.84
+20:12:18.736: Video send (mS). Min=37.87 Avg=40.00 +/- 0.91 Max=42.80
+20:12:18.736: Audio data rate (MBps). Avg=0.00
+20:12:18.736: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:18.736: Audio recv (mS). Min=38.52 Avg=40.00 +/- 0.62 Max=41.00
+20:12:18.736: Audio send (mS). Min=38.48 Avg=40.00 +/- 0.62 Max=41.03
+20:12:23.740: Video data rate (MBps). Avg=5.97
+20:12:23.740: Video size (kB). Min=29.63 Avg=29.82 +/- 0.19 Max=30.28
+20:12:23.740: Video recv (mS). Min=36.79 Avg=39.98 +/- 1.33 Max=43.61
+20:12:23.740: Video send (mS). Min=38.05 Avg=39.99 +/- 0.86 Max=42.56
+20:12:23.740: Audio data rate (MBps). Avg=0.00
+20:12:23.740: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:23.740: Audio recv (mS). Min=38.20 Avg=40.00 +/- 0.64 Max=41.62
+20:12:23.740: Audio send (mS). Min=38.21 Avg=40.00 +/- 0.63 Max=41.54
+20:12:28.746: Video data rate (MBps). Avg=5.99
+20:12:28.746: Video size (kB). Min=29.61 Avg=29.94 +/- 0.29 Max=30.58
+20:12:28.746: Video recv (mS). Min=36.79 Avg=40.02 +/- 1.26 Max=43.10
+20:12:28.746: Video send (mS). Min=37.87 Avg=40.01 +/- 0.90 Max=43.37
+20:12:28.746: Audio data rate (MBps). Avg=0.00
+20:12:28.746: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:28.746: Audio recv (mS). Min=38.55 Avg=39.99 +/- 0.65 Max=41.10
+20:12:28.746: Audio send (mS). Min=38.61 Avg=39.99 +/- 0.63 Max=41.11
+20:12:33.752: Video data rate (MBps). Avg=6.07
+20:12:33.752: Video size (kB). Min=30.01 Avg=30.32 +/- 0.10 Max=30.47
+20:12:33.752: Video recv (mS). Min=37.23 Avg=39.99 +/- 1.13 Max=43.29
+20:12:33.752: Video send (mS). Min=38.37 Avg=39.99 +/- 0.70 Max=42.00
+20:12:33.752: Audio data rate (MBps). Avg=0.00
+20:12:33.752: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:33.752: Audio recv (mS). Min=37.21 Avg=40.00 +/- 0.76 Max=42.61
+20:12:33.752: Audio send (mS). Min=38.63 Avg=40.00 +/- 0.69 Max=41.64
+20:12:38.757: Video data rate (MBps). Avg=6.09
+20:12:38.757: Video size (kB). Min=29.90 Avg=30.41 +/- 0.40 Max=31.02
+20:12:38.757: Video recv (mS). Min=34.53 Avg=40.00 +/- 1.35 Max=43.80
+20:12:38.757: Video send (mS). Min=38.21 Avg=40.00 +/- 0.84 Max=43.20
+20:12:38.757: Audio data rate (MBps). Avg=0.00
+20:12:38.757: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:38.757: Audio recv (mS). Min=33.12 Avg=40.00 +/- 1.28 Max=46.86
+20:12:38.757: Audio send (mS). Min=38.23 Avg=40.00 +/- 0.68 Max=41.01
+20:12:43.763: Video data rate (MBps). Avg=6.16
+20:12:43.763: Video size (kB). Min=29.92 Avg=30.78 +/- 0.40 Max=31.30
+20:12:43.763: Video recv (mS). Min=36.91 Avg=39.99 +/- 1.17 Max=42.35
+20:12:43.763: Video send (mS). Min=38.01 Avg=40.00 +/- 0.83 Max=41.93
+20:12:43.763: Audio data rate (MBps). Avg=0.00
+20:12:43.763: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:43.763: Audio recv (mS). Min=38.59 Avg=40.00 +/- 0.65 Max=41.30
+20:12:43.763: Audio send (mS). Min=38.59 Avg=40.00 +/- 0.65 Max=41.25
+20:12:48.767: Video data rate (MBps). Avg=6.12
+20:12:48.767: Video size (kB). Min=30.02 Avg=30.58 +/- 0.25 Max=30.84
+20:12:48.767: Video recv (mS). Min=34.47 Avg=40.00 +/- 1.41 Max=46.67
+20:12:48.767: Video send (mS). Min=38.04 Avg=40.00 +/- 0.83 Max=42.37
+20:12:48.767: Audio data rate (MBps). Avg=0.00
+20:12:48.767: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:48.767: Audio recv (mS). Min=38.37 Avg=40.00 +/- 0.63 Max=41.05
+20:12:48.767: Audio send (mS). Min=38.41 Avg=40.00 +/- 0.62 Max=40.96
+20:12:53.770: Video data rate (MBps). Avg=6.06
+20:12:53.770: Video size (kB). Min=29.64 Avg=30.29 +/- 0.38 Max=30.98
+20:12:53.770: Video recv (mS). Min=37.33 Avg=40.02 +/- 1.07 Max=42.58
+20:12:53.770: Video send (mS). Min=37.87 Avg=40.01 +/- 0.72 Max=42.08
+20:12:53.770: Audio data rate (MBps). Avg=0.00
+20:12:53.770: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:53.770: Audio recv (mS). Min=38.68 Avg=39.99 +/- 0.63 Max=41.16
+20:12:53.770: Audio send (mS). Min=38.75 Avg=39.99 +/- 0.63 Max=41.20
+20:12:58.776: Video data rate (MBps). Avg=6.14
+20:12:58.776: Video size (kB). Min=30.27 Avg=30.70 +/- 0.47 Max=31.54
+20:12:58.776: Video recv (mS). Min=37.06 Avg=40.01 +/- 1.27 Max=43.62
+20:12:58.776: Video send (mS). Min=37.97 Avg=40.00 +/- 0.88 Max=42.16
+20:12:58.776: Audio data rate (MBps). Avg=0.00
+20:12:58.776: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:12:58.776: Audio recv (mS). Min=38.42 Avg=40.00 +/- 0.65 Max=41.18
+20:12:58.776: Audio send (mS). Min=38.43 Avg=40.00 +/- 0.65 Max=41.32
+20:13:03.781: Video data rate (MBps). Avg=6.30
+20:13:03.781: Video size (kB). Min=31.12 Avg=31.44 +/- 0.17 Max=31.95
+20:13:03.781: Video recv (mS). Min=37.52 Avg=39.99 +/- 1.20 Max=42.94
+20:13:03.781: Video send (mS). Min=38.48 Avg=39.99 +/- 0.68 Max=41.89
+20:13:03.781: Audio data rate (MBps). Avg=0.00
+20:13:03.781: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:03.781: Audio recv (mS). Min=38.55 Avg=40.00 +/- 0.66 Max=40.98
+20:13:03.781: Audio send (mS). Min=38.56 Avg=40.00 +/- 0.68 Max=41.05
+20:13:08.787: Video data rate (MBps). Avg=6.23
+20:13:08.787: Video size (kB). Min=29.90 Avg=31.09 +/- 0.63 Max=31.96
+20:13:08.787: Video recv (mS). Min=32.37 Avg=40.01 +/- 1.61 Max=47.03
+20:13:08.787: Video send (mS). Min=38.03 Avg=40.01 +/- 0.85 Max=42.46
+20:13:08.787: Audio data rate (MBps). Avg=0.00
+20:13:08.787: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:08.787: Audio recv (mS). Min=38.78 Avg=40.01 +/- 0.64 Max=41.06
+20:13:08.787: Audio send (mS). Min=38.85 Avg=40.00 +/- 0.64 Max=40.99
+20:13:13.794: Video data rate (MBps). Avg=6.03
+20:13:13.794: Video size (kB). Min=29.61 Avg=30.12 +/- 0.41 Max=30.83
+20:13:13.794: Video recv (mS). Min=36.85 Avg=39.98 +/- 1.30 Max=43.00
+20:13:13.794: Video send (mS). Min=37.71 Avg=39.99 +/- 0.89 Max=42.37
+20:13:13.794: Audio data rate (MBps). Avg=0.00
+20:13:13.794: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:13.794: Audio recv (mS). Min=38.32 Avg=40.00 +/- 0.68 Max=41.35
+20:13:13.794: Audio send (mS). Min=38.28 Avg=40.00 +/- 0.68 Max=41.41
+20:13:18.801: Video data rate (MBps). Avg=6.09
+20:13:18.801: Video size (kB). Min=29.65 Avg=30.41 +/- 0.38 Max=31.09
+20:13:18.801: Video recv (mS). Min=36.82 Avg=40.01 +/- 1.30 Max=43.33
+20:13:18.801: Video send (mS). Min=37.75 Avg=40.00 +/- 0.89 Max=42.80
+20:13:18.801: Audio data rate (MBps). Avg=0.00
+20:13:18.801: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:18.801: Audio recv (mS). Min=37.92 Avg=40.00 +/- 0.67 Max=42.11
+20:13:18.801: Audio send (mS). Min=38.38 Avg=40.00 +/- 0.63 Max=40.97
+20:13:23.807: Video data rate (MBps). Avg=6.04
+20:13:23.807: Video size (kB). Min=29.88 Avg=30.18 +/- 0.17 Max=30.53
+20:13:23.807: Video recv (mS). Min=37.61 Avg=40.00 +/- 1.35 Max=44.04
+20:13:23.807: Video send (mS). Min=37.89 Avg=39.99 +/- 0.88 Max=42.66
+20:13:23.807: Audio data rate (MBps). Avg=0.00
+20:13:23.807: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:23.807: Audio recv (mS). Min=37.40 Avg=40.00 +/- 0.68 Max=42.19
+20:13:23.807: Audio send (mS). Min=38.67 Avg=39.99 +/- 0.61 Max=41.01
+20:13:28.812: Video data rate (MBps). Avg=6.19
+20:13:28.812: Video size (kB). Min=30.54 Avg=30.92 +/- 0.17 Max=31.30
+20:13:28.812: Video recv (mS). Min=36.73 Avg=40.01 +/- 1.37 Max=45.35
+20:13:28.812: Video send (mS). Min=37.74 Avg=40.01 +/- 0.82 Max=42.39
+20:13:28.812: Audio data rate (MBps). Avg=0.00
+20:13:28.812: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:28.812: Audio recv (mS). Min=38.49 Avg=40.00 +/- 0.63 Max=41.04
+20:13:28.812: Audio send (mS). Min=38.52 Avg=40.00 +/- 0.62 Max=40.97
+20:13:33.818: Video data rate (MBps). Avg=6.19
+20:13:33.818: Video size (kB). Min=29.93 Avg=30.93 +/- 0.57 Max=31.64
+20:13:33.818: Video recv (mS). Min=37.21 Avg=40.00 +/- 1.15 Max=43.00
+20:13:33.818: Video send (mS). Min=38.62 Avg=40.00 +/- 0.67 Max=41.99
+20:13:33.818: Audio data rate (MBps). Avg=0.00
+20:13:33.818: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:33.818: Audio recv (mS). Min=38.59 Avg=40.01 +/- 0.68 Max=41.49
+20:13:33.818: Audio send (mS). Min=38.52 Avg=40.01 +/- 0.68 Max=41.38
+20:13:38.826: Video data rate (MBps). Avg=6.13
+20:13:38.826: Video size (kB). Min=29.91 Avg=30.60 +/- 0.26 Max=30.84
+20:13:38.826: Video recv (mS). Min=35.10 Avg=40.01 +/- 1.34 Max=44.18
+20:13:38.826: Video send (mS). Min=37.75 Avg=40.01 +/- 0.88 Max=42.73
+20:13:38.826: Audio data rate (MBps). Avg=0.00
+20:13:38.826: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:38.826: Audio recv (mS). Min=38.27 Avg=39.99 +/- 0.67 Max=41.09
+20:13:38.826: Audio send (mS). Min=38.20 Avg=39.99 +/- 0.67 Max=41.07
+20:13:43.831: Video data rate (MBps). Avg=6.19
+20:13:43.831: Video size (kB). Min=30.25 Avg=30.91 +/- 0.51 Max=31.84
+20:13:43.831: Video recv (mS). Min=37.51 Avg=40.01 +/- 1.29 Max=43.58
+20:13:43.831: Video send (mS). Min=37.92 Avg=40.00 +/- 0.86 Max=42.47
+20:13:43.831: Audio data rate (MBps). Avg=0.00
+20:13:43.831: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:43.831: Audio recv (mS). Min=38.73 Avg=40.01 +/- 0.61 Max=41.15
+20:13:43.831: Audio send (mS). Min=38.73 Avg=40.01 +/- 0.61 Max=41.03
+20:13:48.838: Video data rate (MBps). Avg=6.26
+20:13:48.838: Video size (kB). Min=30.34 Avg=31.28 +/- 0.28 Max=31.59
+20:13:48.838: Video recv (mS). Min=37.53 Avg=39.98 +/- 1.09 Max=42.51
+20:13:48.838: Video send (mS). Min=37.80 Avg=39.98 +/- 0.81 Max=42.36
+20:13:48.838: Audio data rate (MBps). Avg=0.00
+20:13:48.838: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:48.838: Audio recv (mS). Min=38.20 Avg=39.99 +/- 0.64 Max=41.07
+20:13:48.838: Audio send (mS). Min=38.12 Avg=39.99 +/- 0.66 Max=41.02
+20:13:53.843: Video data rate (MBps). Avg=6.31
+20:13:53.843: Video size (kB). Min=31.10 Avg=31.50 +/- 0.20 Max=31.96
+20:13:53.843: Video recv (mS). Min=36.39 Avg=40.00 +/- 1.27 Max=43.75
+20:13:53.843: Video send (mS). Min=37.81 Avg=40.00 +/- 0.76 Max=42.46
+20:13:53.843: Audio data rate (MBps). Avg=0.00
+20:13:53.843: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:53.843: Audio recv (mS). Min=38.35 Avg=40.01 +/- 0.72 Max=41.23
+20:13:53.843: Audio send (mS). Min=38.33 Avg=40.01 +/- 0.70 Max=41.15
+20:13:58.849: Video data rate (MBps). Avg=6.17
+20:13:58.849: Video size (kB). Min=29.91 Avg=30.81 +/- 0.50 Max=31.64
+20:13:58.849: Video recv (mS). Min=36.68 Avg=40.01 +/- 1.17 Max=42.62
+20:13:58.849: Video send (mS). Min=37.76 Avg=40.01 +/- 0.79 Max=42.32
+20:13:58.849: Audio data rate (MBps). Avg=0.00
+20:13:58.849: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:13:58.849: Audio recv (mS). Min=38.41 Avg=39.99 +/- 0.69 Max=41.09
+20:13:58.849: Audio send (mS). Min=38.47 Avg=39.99 +/- 0.69 Max=40.99
+20:14:03.854: Video data rate (MBps). Avg=6.13
+20:14:03.854: Video size (kB). Min=30.24 Avg=30.64 +/- 0.16 Max=30.83
+20:14:03.854: Video recv (mS). Min=36.62 Avg=40.01 +/- 1.33 Max=43.61
+20:14:03.854: Video send (mS). Min=38.04 Avg=40.01 +/- 0.80 Max=42.47
+20:14:03.854: Audio data rate (MBps). Avg=0.00
+20:14:03.854: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:03.854: Audio recv (mS). Min=38.67 Avg=40.00 +/- 0.70 Max=41.25
+20:14:03.854: Audio send (mS). Min=38.65 Avg=40.00 +/- 0.69 Max=41.36
+20:14:08.862: Video data rate (MBps). Avg=6.12
+20:14:08.862: Video size (kB). Min=29.96 Avg=30.57 +/- 0.33 Max=31.16
+20:14:08.862: Video recv (mS). Min=37.36 Avg=39.99 +/- 1.22 Max=44.00
+20:14:08.862: Video send (mS). Min=37.97 Avg=40.00 +/- 0.84 Max=42.82
+20:14:08.862: Audio data rate (MBps). Avg=0.00
+20:14:08.862: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:08.862: Audio recv (mS). Min=38.47 Avg=40.00 +/- 0.63 Max=41.03
+20:14:08.862: Audio send (mS). Min=38.46 Avg=40.00 +/- 0.62 Max=40.97
+20:14:13.868: Video data rate (MBps). Avg=6.11
+20:14:13.868: Video size (kB). Min=29.88 Avg=30.50 +/- 0.38 Max=30.98
+20:14:13.868: Video recv (mS). Min=36.76 Avg=40.01 +/- 1.34 Max=43.84
+20:14:13.868: Video send (mS). Min=37.97 Avg=40.00 +/- 0.84 Max=42.66
+20:14:13.868: Audio data rate (MBps). Avg=0.00
+20:14:13.868: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:13.868: Audio recv (mS). Min=38.48 Avg=40.00 +/- 0.67 Max=41.69
+20:14:13.868: Audio send (mS). Min=38.60 Avg=40.00 +/- 0.66 Max=41.68
+20:14:18.874: Video data rate (MBps). Avg=6.25
+20:14:18.874: Video size (kB). Min=30.80 Avg=31.21 +/- 0.21 Max=31.64
+20:14:18.874: Video recv (mS). Min=37.79 Avg=39.99 +/- 1.30 Max=44.57
+20:14:18.874: Video send (mS). Min=38.02 Avg=39.99 +/- 0.80 Max=42.48
+20:14:18.874: Audio data rate (MBps). Avg=0.00
+20:14:18.874: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:18.874: Audio recv (mS). Min=38.21 Avg=40.00 +/- 0.74 Max=41.41
+20:14:18.874: Audio send (mS). Min=38.23 Avg=40.00 +/- 0.73 Max=41.38
+20:14:23.881: Video data rate (MBps). Avg=6.20
+20:14:23.881: Video size (kB). Min=29.76 Avg=30.97 +/- 0.78 Max=31.97
+20:14:23.881: Video recv (mS). Min=37.01 Avg=40.00 +/- 1.18 Max=42.95
+20:14:23.881: Video send (mS). Min=37.80 Avg=40.00 +/- 0.69 Max=41.79
+20:14:23.881: Audio data rate (MBps). Avg=0.00
+20:14:23.881: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:23.881: Audio recv (mS). Min=38.68 Avg=40.00 +/- 0.71 Max=41.11
+20:14:23.881: Audio send (mS). Min=38.70 Avg=40.00 +/- 0.67 Max=40.95
+20:14:28.886: Video data rate (MBps). Avg=6.12
+20:14:28.886: Video size (kB). Min=29.74 Avg=30.58 +/- 0.24 Max=30.84
+20:14:28.886: Video recv (mS). Min=37.05 Avg=40.01 +/- 1.23 Max=44.08
+20:14:28.886: Video send (mS). Min=38.03 Avg=40.02 +/- 0.78 Max=43.00
+20:14:28.886: Audio data rate (MBps). Avg=0.00
+20:14:28.886: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:28.886: Audio recv (mS). Min=38.36 Avg=40.00 +/- 0.67 Max=41.19
+20:14:28.886: Audio send (mS). Min=38.33 Avg=40.00 +/- 0.66 Max=41.05
+20:14:33.893: Video data rate (MBps). Avg=6.24
+20:14:33.893: Video size (kB). Min=30.39 Avg=31.15 +/- 0.38 Max=31.73
+20:14:33.893: Video recv (mS). Min=37.04 Avg=39.99 +/- 1.38 Max=43.33
+20:14:33.893: Video send (mS). Min=37.74 Avg=39.99 +/- 0.94 Max=42.53
+20:14:33.893: Audio data rate (MBps). Avg=0.00
+20:14:33.893: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:33.893: Audio recv (mS). Min=38.25 Avg=40.00 +/- 0.72 Max=41.47
+20:14:33.893: Audio send (mS). Min=38.27 Avg=40.00 +/- 0.71 Max=41.59
+20:14:38.899: Video data rate (MBps). Avg=6.30
+20:14:38.899: Video size (kB). Min=31.13 Avg=31.47 +/- 0.19 Max=31.86
+20:14:38.899: Video recv (mS). Min=37.50 Avg=40.01 +/- 1.18 Max=42.91
+20:14:38.899: Video send (mS). Min=37.92 Avg=39.99 +/- 0.82 Max=42.63
+20:14:38.899: Audio data rate (MBps). Avg=0.00
+20:14:38.899: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:38.899: Audio recv (mS). Min=38.47 Avg=39.99 +/- 0.65 Max=41.04
+20:14:38.899: Audio send (mS). Min=38.53 Avg=39.99 +/- 0.63 Max=41.02
+20:14:43.902: Video data rate (MBps). Avg=6.26
+20:14:43.902: Video size (kB). Min=30.82 Avg=31.29 +/- 0.22 Max=31.79
+20:14:43.902: Video recv (mS). Min=37.39 Avg=40.00 +/- 1.09 Max=43.32
+20:14:43.902: Video send (mS). Min=38.10 Avg=40.01 +/- 0.78 Max=42.36
+20:14:43.902: Audio data rate (MBps). Avg=0.00
+20:14:43.902: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:43.902: Audio recv (mS). Min=38.29 Avg=40.01 +/- 0.74 Max=41.10
+20:14:43.902: Audio send (mS). Min=38.29 Avg=40.01 +/- 0.70 Max=40.97
+20:14:48.907: Video data rate (MBps). Avg=6.10
+20:14:48.907: Video size (kB). Min=29.64 Avg=30.47 +/- 0.51 Max=31.29
+20:14:48.907: Video recv (mS). Min=37.26 Avg=39.99 +/- 1.22 Max=43.58
+20:14:48.907: Video send (mS). Min=38.26 Avg=39.99 +/- 0.82 Max=42.05
+20:14:48.907: Audio data rate (MBps). Avg=0.00
+20:14:48.907: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:48.907: Audio recv (mS). Min=38.35 Avg=39.99 +/- 0.77 Max=41.63
+20:14:48.907: Audio send (mS). Min=38.51 Avg=39.99 +/- 0.75 Max=41.57
+20:14:53.911: Video data rate (MBps). Avg=6.11
+20:14:53.911: Video size (kB). Min=29.71 Avg=30.55 +/- 0.21 Max=30.82
+20:14:53.911: Video recv (mS). Min=37.65 Avg=40.02 +/- 1.33 Max=43.65
+20:14:53.911: Video send (mS). Min=38.27 Avg=40.01 +/- 0.84 Max=42.39
+20:14:53.911: Audio data rate (MBps). Avg=0.00
+20:14:53.911: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:53.911: Audio recv (mS). Min=38.46 Avg=40.01 +/- 0.66 Max=41.29
+20:14:53.911: Audio send (mS). Min=38.51 Avg=40.00 +/- 0.68 Max=41.27
+20:14:58.916: Video data rate (MBps). Avg=6.04
+20:14:58.916: Video size (kB). Min=29.61 Avg=30.17 +/- 0.42 Max=30.96
+20:14:58.916: Video recv (mS). Min=37.72 Avg=39.99 +/- 1.12 Max=43.54
+20:14:58.916: Video send (mS). Min=38.69 Avg=39.99 +/- 0.82 Max=43.02
+20:14:58.916: Audio data rate (MBps). Avg=0.00
+20:14:58.916: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:14:58.916: Audio recv (mS). Min=38.19 Avg=40.01 +/- 0.67 Max=42.03
+20:14:58.916: Audio send (mS). Min=38.23 Avg=40.01 +/- 0.68 Max=41.99
+20:15:03.923: Video data rate (MBps). Avg=6.20
+20:15:03.923: Video size (kB). Min=30.56 Avg=30.95 +/- 0.16 Max=31.28
+20:15:03.923: Video recv (mS). Min=37.32 Avg=40.00 +/- 1.14 Max=42.73
+20:15:03.923: Video send (mS). Min=38.02 Avg=40.00 +/- 0.69 Max=41.99
+20:15:03.923: Audio data rate (MBps). Avg=0.00
+20:15:03.923: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:03.923: Audio recv (mS). Min=34.93 Avg=39.99 +/- 0.90 Max=44.17
+20:15:03.923: Audio send (mS). Min=38.48 Avg=39.99 +/- 0.69 Max=41.03
+20:15:08.928: Video data rate (MBps). Avg=6.31
+20:15:08.928: Video size (kB). Min=31.08 Avg=31.52 +/- 0.20 Max=31.97
+20:15:08.928: Video recv (mS). Min=37.26 Avg=40.00 +/- 1.23 Max=43.09
+20:15:08.928: Video send (mS). Min=37.91 Avg=40.00 +/- 0.79 Max=42.28
+20:15:08.928: Audio data rate (MBps). Avg=0.00
+20:15:08.928: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:08.928: Audio recv (mS). Min=38.36 Avg=40.00 +/- 0.68 Max=41.38
+20:15:08.928: Audio send (mS). Min=38.75 Avg=40.00 +/- 0.66 Max=40.99
+20:15:13.932: Video data rate (MBps). Avg=6.15
+20:15:13.932: Video size (kB). Min=29.56 Avg=30.73 +/- 0.77 Max=31.69
+20:15:13.932: Video recv (mS). Min=36.79 Avg=40.01 +/- 1.20 Max=43.53
+20:15:13.932: Video send (mS). Min=37.97 Avg=40.01 +/- 0.77 Max=42.10
+20:15:13.932: Audio data rate (MBps). Avg=0.00
+20:15:13.932: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:13.932: Audio recv (mS). Min=38.87 Avg=40.00 +/- 0.68 Max=41.44
+20:15:13.932: Audio send (mS). Min=38.91 Avg=40.00 +/- 0.66 Max=41.25
+20:15:18.938: Video data rate (MBps). Avg=6.12
+20:15:18.938: Video size (kB). Min=30.03 Avg=30.57 +/- 0.11 Max=30.71
+20:15:18.938: Video recv (mS). Min=37.75 Avg=40.00 +/- 1.04 Max=42.99
+20:15:18.938: Video send (mS). Min=38.24 Avg=39.99 +/- 0.77 Max=42.90
+20:15:18.938: Audio data rate (MBps). Avg=0.00
+20:15:18.938: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:18.938: Audio recv (mS). Min=38.50 Avg=39.99 +/- 0.64 Max=41.18
+20:15:18.938: Audio send (mS). Min=38.50 Avg=39.99 +/- 0.65 Max=41.21
+20:15:23.945: Video data rate (MBps). Avg=6.12
+20:15:23.945: Video size (kB). Min=29.57 Avg=30.56 +/- 0.72 Max=31.59
+20:15:23.945: Video recv (mS). Min=36.50 Avg=40.00 +/- 1.28 Max=43.17
+20:15:23.945: Video send (mS). Min=38.06 Avg=40.00 +/- 0.68 Max=41.94
+20:15:23.945: Audio data rate (MBps). Avg=0.00
+20:15:23.945: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:23.945: Audio recv (mS). Min=38.61 Avg=40.00 +/- 0.66 Max=41.54
+20:15:23.945: Audio send (mS). Min=38.37 Avg=40.00 +/- 0.66 Max=41.51
+20:15:28.951: Video data rate (MBps). Avg=6.30
+20:15:28.951: Video size (kB). Min=31.07 Avg=31.48 +/- 0.19 Max=31.86
+20:15:28.951: Video recv (mS). Min=37.60 Avg=40.01 +/- 1.20 Max=42.88
+20:15:28.951: Video send (mS). Min=38.00 Avg=40.01 +/- 0.74 Max=42.18
+20:15:28.951: Audio data rate (MBps). Avg=0.00
+20:15:28.951: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:28.951: Audio recv (mS). Min=38.45 Avg=40.00 +/- 0.66 Max=41.40
+20:15:28.951: Audio send (mS). Min=38.59 Avg=40.00 +/- 0.64 Max=41.39
+20:15:33.956: Video data rate (MBps). Avg=6.20
+20:15:33.956: Video size (kB). Min=30.64 Avg=30.99 +/- 0.19 Max=31.54
+20:15:33.956: Video recv (mS). Min=36.98 Avg=40.00 +/- 1.16 Max=43.46
+20:15:33.956: Video send (mS). Min=37.94 Avg=40.00 +/- 0.80 Max=43.22
+20:15:33.956: Audio data rate (MBps). Avg=0.00
+20:15:33.956: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:33.956: Audio recv (mS). Min=38.42 Avg=40.01 +/- 0.63 Max=41.13
+20:15:33.956: Audio send (mS). Min=38.44 Avg=40.01 +/- 0.65 Max=41.27
+20:15:38.961: Video data rate (MBps). Avg=6.06
+20:15:38.961: Video size (kB). Min=29.62 Avg=30.25 +/- 0.42 Max=31.02
+20:15:38.961: Video recv (mS). Min=37.32 Avg=39.99 +/- 1.35 Max=42.84
+20:15:38.961: Video send (mS). Min=38.21 Avg=40.00 +/- 0.77 Max=42.70
+20:15:38.961: Audio data rate (MBps). Avg=0.00
+20:15:38.961: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:38.961: Audio recv (mS). Min=38.22 Avg=39.99 +/- 0.75 Max=41.59
+20:15:38.961: Audio send (mS). Min=38.41 Avg=39.99 +/- 0.74 Max=41.48
+20:15:43.968: Video data rate (MBps). Avg=6.13
+20:15:43.968: Video size (kB). Min=30.49 Avg=30.62 +/- 0.08 Max=30.81
+20:15:43.968: Video recv (mS). Min=36.65 Avg=40.00 +/- 1.23 Max=43.43
+20:15:43.968: Video send (mS). Min=37.93 Avg=40.00 +/- 0.81 Max=43.35
+20:15:43.968: Audio data rate (MBps). Avg=0.00
+20:15:43.968: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:43.968: Audio recv (mS). Min=35.57 Avg=40.00 +/- 0.84 Max=43.94
+20:15:43.968: Audio send (mS). Min=38.69 Avg=40.00 +/- 0.66 Max=41.11
+20:15:48.974: Video data rate (MBps). Avg=6.09
+20:15:48.974: Video size (kB). Min=29.65 Avg=30.41 +/- 0.40 Max=31.20
+20:15:48.974: Video recv (mS). Min=36.78 Avg=40.00 +/- 1.31 Max=43.70
+20:15:48.974: Video send (mS). Min=37.85 Avg=40.00 +/- 0.85 Max=42.41
+20:15:48.974: Audio data rate (MBps). Avg=0.00
+20:15:48.974: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:48.974: Audio recv (mS). Min=37.95 Avg=40.00 +/- 0.72 Max=41.32
+20:15:48.974: Audio send (mS). Min=38.17 Avg=40.00 +/- 0.67 Max=41.34
+20:15:53.980: Video data rate (MBps). Avg=6.25
+20:15:53.980: Video size (kB). Min=30.81 Avg=31.25 +/- 0.20 Max=31.70
+20:15:53.980: Video recv (mS). Min=36.97 Avg=40.01 +/- 1.31 Max=42.87
+20:15:53.980: Video send (mS). Min=37.80 Avg=40.00 +/- 0.83 Max=42.32
+20:15:53.980: Audio data rate (MBps). Avg=0.00
+20:15:53.980: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:53.980: Audio recv (mS). Min=38.67 Avg=40.01 +/- 0.65 Max=41.33
+20:15:53.980: Audio send (mS). Min=38.58 Avg=40.01 +/- 0.66 Max=41.21
+20:15:57.986: Exit requested.
+20:15:58.486: Video data rate (MBps). Avg=6.32
+20:15:58.486: Video size (kB). Min=31.16 Avg=31.56 +/- 0.19 Max=31.97
+20:15:58.486: Video recv (mS). Min=37.48 Avg=40.00 +/- 1.39 Max=43.78
+20:15:58.486: Video send (mS). Min=37.85 Avg=39.99 +/- 0.84 Max=42.76
+20:15:58.486: Audio data rate (MBps). Avg=0.00
+20:15:58.486: Audio size (kB). Min=0.03 Avg=0.03 +/- 0.00 Max=0.03
+20:15:58.486: Audio recv (mS). Min=38.27 Avg=39.99 +/- 0.67 Max=41.30
+20:15:58.486: Audio send (mS). Min=38.16 Avg=39.99 +/- 0.67 Max=41.31
+20:15:58.488: Video receiver destroyed.
+20:15:58.493: Audio receiver destroyed.

@@ -1,0 +1,5 @@
+textfsm
+numpy --prefer-binary
+matplotlib --prefer-binary
+argparse
+datetime

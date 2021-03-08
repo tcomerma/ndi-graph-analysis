@@ -1,0 +1,27 @@
+Value Filldown Framerate (\d+.\d+)
+Value Timestamp (\S+)
+Value Average_video_bitrate (\d+.\d+)
+Value Min_video_size (\d+.\d+)
+Value Avg_video_size (\d+.\d+)
+Value Dev_video_size (\d+.\d+)
+Value Max_video_size (\d+.\d+)
+Value Min_video_delay_recv (\d+.\d+)
+Value Avg_video_delay_recv (\d+.\d+)
+Value Dev_video_delay_recv (\d+.\d+)
+Value Max_video_delay_recv (\d+.\d+)
+Value Min_video_delay_send (\d+.\d+)
+Value Avg_video_delay_send (\d+.\d+)
+Value Dev_video_delay_send (\d+.\d+)
+Value Max_video_delay_send (\d+.\d+)
+
+Start
+  ^.*Video format changed.*frame-rate=${Framerate}
+  ^${Timestamp}: Video data rate \(MBps\)\. Avg=${Average_video_bitrate}
+# 17:14:51.364: Video size (kB). Min=84.71 Avg=84.86 +/- 0.15 Max=85.01
+  ^.*Video size \(kB\)\. Min\=${Min_video_size} Avg\=${Avg_video_size}.....${Dev_video_size} Max\=${Max_video_size}
+# 17:19:01.702: Video recv (mS). Min=39.60 Avg=40.00 +/- 0.18 Max=40.40
+  ^.*Video recv \(mS\)\. Min=${Min_video_delay_recv} Avg=${Avg_video_delay_recv}.....${Dev_video_delay_recv} Max=${Max_video_delay_recv}
+# 17:19:01.702: Video send (mS). Min=39.95 Avg=40.00 +/- 0.01 Max=40.05
+  ^.*Video send \(mS\)\. Min=${Min_video_delay_send} Avg=${Avg_video_delay_send}.....${Dev_video_delay_send} Max=${Max_video_delay_send}
+  ^.*Audio send \(mS\) -> Record
+  
