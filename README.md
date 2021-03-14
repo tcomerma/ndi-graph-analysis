@@ -47,6 +47,8 @@ Time hould be around 1000/framerate. e.g. 25fps=40, 50fps=20,...
 ### Video @receiver
 Inter-frame time as receiver by NDIAnalysis.exe. High variance indicates problems during transmision (most likely network) 
 
+### Video @receiver - @sender
+The result of substracting both values. Could help to diagnose network issues
 
 ## Notes
 - Do not move/minimize/... the window where NDIAnalysis.exe is running. It will alter the results.
