@@ -22,6 +22,4 @@ Start
 # 17:19:01.702: Video recv (mS). Min=39.60 Avg=40.00 +/- 0.18 Max=40.40
   ^.*Video recv \(mS\)\. Min=${Min_video_delay_recv} Avg=${Avg_video_delay_recv}.....${Dev_video_delay_recv} Max=${Max_video_delay_recv}
 # 17:19:01.702: Video send (mS). Min=39.95 Avg=40.00 +/- 0.01 Max=40.05
-  ^.*Video send \(mS\)\. Min=${Min_video_delay_send} Avg=${Avg_video_delay_send}.....${Dev_video_delay_send} Max=${Max_video_delay_send}
-  ^.*Audio send \(mS\) -> Record
-  
+  ^.*Video send \(mS\)\. Min=${Min_video_delay_send} Avg=${Avg_video_delay_send}.....${Dev_video_delay_send} Max=${Max_video_delay_send} -> Record
