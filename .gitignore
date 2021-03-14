@@ -2,3 +2,5 @@ venv
 test.py
 **/*.png
 .vscode
+!samples/TALKSHOW01_VCONF7_3.txt.png
+!samples/C9-Cam2.txt.png
