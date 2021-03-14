@@ -35,3 +35,18 @@ NDIAnalysis.exe /source:"TALKSHOW01 (VCONF 7)" /time:300 > TALKSHOW01_VCONF7_2.t
 python3 ndi-graph-analysis.py -f TALKSHOW01_VCONF7_2.txt
 ```
 Output at TALKSHOW01_VCONF7_2.txt.png
+
+## Results
+
+### Video data rate
+Overall bandwith of the stream
+
+### Video @sender 
+Inter-frame time as created at sender. High variance could be a symptom of problems at the source device (cpu, too many clients,...).
+Time hould be around 1000/framerate. e.g. 25fps=40, 50fps=20,...
+### Video @receiver
+Inter-frame time as receiver by NDIAnalysis.exe. High variance indicates problems during transmision (most likely network) 
+
+
+## Notes
+- Do not move/minimize/... the window where NDIAnalysis.exe is running. It will alter the results.
