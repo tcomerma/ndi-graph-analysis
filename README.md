@@ -7,7 +7,7 @@ Toni Comerma
 march 2021
 
 # Samples
-You can find samples of NDIAnalysis output at /samples along with some graphs like [this](../blob/master/samples/C9-Cam2.txt.png) and [that](../blob/master/samples/TALKSHOW01_VCONF7_3.txt.png)
+You can find samples of NDIAnalysis output at /samples along with some graphs like [this](main/samples/C9-Cam2.txt.png) and [that](main/samples/TALKSHOW01_VCONF7_3.txt.png)
 
 # Usage
 ## First time
