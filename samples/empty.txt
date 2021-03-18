@@ -1,0 +1,20 @@
+NDI Analysis BETA v4.6.2.0
+Copyright (C)2014-2021, NewTek, inc.
+
+NDI version : 4.6.2.0
+
+12:50:28.924: Video receiver creation succeeded.
+12:50:28.924: Audio receiver creation succeeded.
+12:50:28.927: Video connection opened.
+12:50:28.927: Audio connection opened.
+12:50:28.935: Capabilities, PTZ control=true
+12:50:28.935: Capabilities, Web interface=http://192.168.16.10/admin/index.html
+12:50:28.936: Tally program=false preview=false
+12:50:28.936: Product, Long name=Panasonic Sender Sample.
+12:50:28.936: Product, Short name=NDI-SEND
+12:50:28.936: Product, Model=UE150
+12:50:28.936: Product, Manufacturer=Panasonic Co.Ltd
+12:50:28.936: Product, Version=1.01
+12:50:28.936: Product, Session name=Input1
+12:55:34.268: Video receiver destroyed.
+12:55:34.272: Audio receiver destroyed.

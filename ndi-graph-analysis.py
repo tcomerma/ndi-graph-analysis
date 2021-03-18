@@ -148,6 +148,10 @@ def main():
         print(f"Problems partsing file {args.file}")
         print(e)
         exit(4)
+    # Check if empty (Stream was not running)
+    if (len (data) == 0):
+        print("No stream received. Sure it was really on?")
+        exit(5)
     # Check if last record is OK
     if (data[len(data)-1]['Timestamp']) == "":
         del data[len(data)-1]
