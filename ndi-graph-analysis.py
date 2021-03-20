@@ -53,15 +53,16 @@ def convert_text_2_float(data):
 def create_graph(data, name):
     time = [i['delta'] for i in data]
     bitrate = [i['Average_video_bitrate'] for i in data]
+    bitrate_avg = sum(bitrate)/len(bitrate)
 
     fig, (ax1, ax2, ax3) = plt.subplots(3, constrained_layout=True)
     fig.suptitle(f'graphs for {name}. 5 secs/sample')
     fig.set_figheight(cm_to_inch(29.7))
     fig.set_figwidth(cm_to_inch(21))
-    # fig.tight_layout()
+
     ax1.set(xlabel='time (s)', ylabel='bitrate (Mbps)', title="Video data rate")
     ax1.grid(True)
-    ax1.plot(time, bitrate, label='bitrate')
+    ax1.plot(time, bitrate, label=f"bitrate ({bitrate_avg:.2f})")
     ax1.legend()
 
     Min = [i['Min_video_delay_send'] for i in data]
@@ -71,10 +72,11 @@ def create_graph(data, name):
               for i in data]
     Dev_down = [(i['Avg_video_delay_send'] - i['Dev_video_delay_send'])
                 for i in data]
+    Dev = [i['Dev_video_delay_send'] for i in data]
     Min_avg = sum(Min)/len(Min)
     Max_avg = sum(Max)/len(Max)
     Avg_avg = sum(Avg)/len(Avg)
-    Dev_avg = sum(Dev_up)/len(Dev_up) - Avg_avg
+    Dev_avg = sum(Dev)/len(Dev)
     ax2.set(xlabel='time (s)', ylabel='time between frames (ms)',
             title="Video @sender")
     ax2.grid(True)
@@ -91,10 +93,11 @@ def create_graph(data, name):
               for i in data]
     Dev_down = [(i['Avg_video_delay_recv'] - i['Dev_video_delay_recv'])
                 for i in data]
+    Dev = [i['Dev_video_delay_recv'] for i in data]
     Min_avg = sum(Min)/len(Min)
     Max_avg = sum(Max)/len(Max)
     Avg_avg = sum(Avg)/len(Avg)
-    Dev_avg = sum(Dev_up)/len(Dev_up) - Avg_avg
+    Dev_avg = sum(Dev)/len(Dev)
     ax3.set(xlabel='time (s)', ylabel='time between frames (ms)',
             title="Video @receiver")
     ax3.grid(True)
