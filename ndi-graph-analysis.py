@@ -54,7 +54,7 @@ def create_graph(data, name):
     time = [i['delta'] for i in data]
     bitrate = [i['Average_video_bitrate'] for i in data]
 
-    fig, (ax1, ax2, ax3, ax4) = plt.subplots(4, constrained_layout=True)
+    fig, (ax1, ax2, ax3) = plt.subplots(3, constrained_layout=True)
     fig.suptitle(f'graphs for {name}. 5 secs/sample')
     fig.set_figheight(cm_to_inch(29.7))
     fig.set_figwidth(cm_to_inch(21))
@@ -96,16 +96,17 @@ def create_graph(data, name):
     ax3.fill_between(time, Dev_up, Dev_down, alpha=0.2, label='dev')
     ax3.legend()
 
-    Min = [i['Min_video_delay_recv'] - i['Min_video_delay_send'] for i in data]
-    Avg = [i['Avg_video_delay_recv'] - i['Avg_video_delay_send'] for i in data]
-    Max = [i['Max_video_delay_recv'] - i['Max_video_delay_send'] for i in data]
-    ax4.set(xlabel='time (s)', ylabel='time between frames (ms)',
-            title="Video @receiver - @ sender")
-    ax4.grid(True)
-    ax4.plot(time, Max, label='max')
-    ax4.plot(time, Avg, label='avg')
-    ax4.plot(time, Min, label='min')
-    ax4.legend()
+
+#    Min = [i['Min_video_delay_recv'] - i['Min_video_delay_send'] for i in data]
+#    Avg = [i['Avg_video_delay_recv'] - i['Avg_video_delay_send'] for i in data]
+#    Max = [i['Max_video_delay_recv'] - i['Max_video_delay_send'] for i in data]
+#    ax4.set(xlabel='time (s)', ylabel='time between frames (ms)',
+#            title="Video @receiver - @ sender")
+#    ax4.grid(True)
+#    ax4.plot(time, Max, label='max')
+#    ax4.plot(time, Avg, label='avg')
+#    ax4.plot(time, Min, label='min')
+#    ax4.legend()
 
     plt.savefig(name + ".png", bbox_inches='tight')
     plt.close()
