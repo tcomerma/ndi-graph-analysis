@@ -52,5 +52,9 @@ Inter-frame time as receiver by NDIAnalysis.exe. High variance indicates problem
 ### Video @receiver - @sender
 The result of substracting both values. Could help to diagnose network issues
 
+
+Legend shows average values.
+
+
 ## Notes
-- Do not move/minimize/... the window where NDIAnalysis.exe is running. It will alter the results.
+- Do not move/minimize/... the window where NDIAnalysis.exe is running. It likelly will alter the results.
