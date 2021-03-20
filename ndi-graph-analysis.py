@@ -71,13 +71,17 @@ def create_graph(data, name):
               for i in data]
     Dev_down = [(i['Avg_video_delay_send'] - i['Dev_video_delay_send'])
                 for i in data]
+    Min_avg = sum(Min)/len(Min)
+    Max_avg = sum(Max)/len(Max)
+    Avg_avg = sum(Avg)/len(Avg)
+    Dev_avg = sum(Dev_up)/len(Dev_up) - Avg_avg
     ax2.set(xlabel='time (s)', ylabel='time between frames (ms)',
             title="Video @sender")
     ax2.grid(True)
-    ax2.plot(time, Max, label='max')
-    ax2.plot(time, Avg, label='avg')
-    ax2.plot(time, Min, label='min')
-    ax2.fill_between(time, Dev_up, Dev_down, alpha=0.2, label='dev')
+    ax2.plot(time, Max, label=f"max ({Max_avg:.2f})")
+    ax2.plot(time, Avg, label=f"avg ({Avg_avg:.2f})")
+    ax2.plot(time, Min, label=f"min ({Min_avg:.2f})")
+    ax2.fill_between(time, Dev_up, Dev_down, alpha=0.2, label=f"dev ({Dev_avg:.2f})")
     ax2.legend()
 
     Min = [i['Min_video_delay_recv'] for i in data]
@@ -87,13 +91,17 @@ def create_graph(data, name):
               for i in data]
     Dev_down = [(i['Avg_video_delay_recv'] - i['Dev_video_delay_recv'])
                 for i in data]
+    Min_avg = sum(Min)/len(Min)
+    Max_avg = sum(Max)/len(Max)
+    Avg_avg = sum(Avg)/len(Avg)
+    Dev_avg = sum(Dev_up)/len(Dev_up) - Avg_avg
     ax3.set(xlabel='time (s)', ylabel='time between frames (ms)',
             title="Video @receiver")
     ax3.grid(True)
-    ax3.plot(time, Max, label='max')
-    ax3.plot(time, Avg, label='avg')
-    ax3.plot(time, Min, label='min')
-    ax3.fill_between(time, Dev_up, Dev_down, alpha=0.2, label='dev')
+    ax3.plot(time, Max, label=f"max ({Max_avg:.2f})")
+    ax3.plot(time, Avg, label=f"avg ({Avg_avg:.2f})")
+    ax3.plot(time, Min, label=f"min ({Min_avg:.2f})")
+    ax3.fill_between(time, Dev_up, Dev_down, alpha=0.2, label=f"dev ({Dev_avg:.2f})")
     ax3.legend()
 
 
