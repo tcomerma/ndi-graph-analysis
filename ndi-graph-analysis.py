@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import numpy
 import argparse
 import datetime
+import csv
 
 
 def is_float(value):
@@ -61,6 +62,7 @@ def create_graph(data, name):
     fig.set_figwidth(cm_to_inch(21))
 
     ax1.set(xlabel='time (s)', ylabel='bitrate (Mbps)', title="Video data rate")
+    ax1.set_ylim([0, 1.20*max(bitrate)])
     ax1.grid(True)
     ax1.plot(time, bitrate, label=f"bitrate ({bitrate_avg:.2f})")
     ax1.legend()
@@ -107,30 +109,55 @@ def create_graph(data, name):
     ax3.fill_between(time, Dev_up, Dev_down, alpha=0.2, label=f"dev ({Dev_avg:.2f})")
     ax3.legend()
 
+    plt.savefig(name + ".png", bbox_inches='tight')
+    plt.close()
 
-#    Min = [i['Min_video_delay_recv'] - i['Min_video_delay_send'] for i in data]
-#    Avg = [i['Avg_video_delay_recv'] - i['Avg_video_delay_send'] for i in data]
-#    Max = [i['Max_video_delay_recv'] - i['Max_video_delay_send'] for i in data]
-#    ax4.set(xlabel='time (s)', ylabel='time between frames (ms)',
-#            title="Video @receiver - @ sender")
-#    ax4.grid(True)
-#    ax4.plot(time, Max, label='max')
-#    ax4.plot(time, Avg, label='avg')
-#    ax4.plot(time, Min, label='min')
-#    ax4.legend()
+def create_graph_csv(data, name):
+
+    time = [i[0] for i in data] 
+    dtime = [i[1] for i in data]
+
+    fig, (ax1) = plt.subplots(1, constrained_layout=True)
+    fig.suptitle(f'graphs for {name}')
+    fig.set_figheight(cm_to_inch(10))
+    fig.set_figwidth(cm_to_inch(21))
+
+    ax1.set(xlabel='frame', ylabel='delta ms', title="ms from previous frames")
+    ax1.set_ylim([0, max(dtime)])
+    ax1.grid(True)
+    ax1.plot(dtime)
+    #ax1.legend()
 
     plt.savefig(name + ".png", bbox_inches='tight')
     plt.close()
 
+def read_csv (r, c, f):
+    format = ""
+
+    for row in r:
+        d = datetime.datetime.fromtimestamp(float(row['Timecode (ms)'])/10000000.0)
+        d = d.strftime('%H:%M:%S.%f')
+        # Detection in format changes
+        new_format = "{}x{}, {}fps, {}, codec {}".format(row['X resolution'], row['Y resolution'], row['frame-rate'], row['frame type'], row['codec'])
+        if format != new_format:
+            f[d] = new_format
+            format = new_format
+        # Parsing useful data
+        c.append([d, float(row['dTime (ms)'])])
+
 
 def main():
-    TEMPLATE_FILE = "templates/ndi-analysis.template"
+    TEMPLATE_FILE = "templates/ndi-analysis.template".format()
+    csv_data = []
+    format_data = {}
 
     # Parse command line
 
     parser = argparse.ArgumentParser(description='Process line parameters.')
     parser.add_argument('--file', '-f', dest='file',
                         help='file with ndi analysis results')
+    parser.add_argument('--csv', '-c', dest='csv_file', required=False,
+                        help='file with ndi analysis results in csv format')
     args = parser.parse_args()
 
     if (args.file is None):
@@ -153,6 +180,17 @@ def main():
         print(e)
         exit(3)
 
+   # Open csv
+    if args.csv_file:
+        try:
+            with open(args.csv_file, 'r') as csvfile:
+                reader = csv.DictReader(csvfile, delimiter=',' )
+                read_csv (reader, csv_data, format_data)
+
+        except Exception as e:
+            print(f"Problems opening csv file {args.csv_file}")
+            print(e)
+            exit(5)
     # Parse file
     try:
         data = re_table.ParseTextToDicts(raw_data)
@@ -172,6 +210,9 @@ def main():
     convert_date_delta(data)
     convert_text_2_float(data)
     create_graph(data, args.file)
+    if args.csv_file:
+        create_graph_csv(csv_data, args.csv_file)
+    
 
 
 if __name__ == "__main__":
